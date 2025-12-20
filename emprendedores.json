@@ -1,0 +1,172 @@
+[
+  {
+    "id": 1,
+    "linea_negocio": "PRODUCTOS PORCINOS",
+    "nombre_emprendimiento": "CRIADERO DE PORCINOS HHV",
+    "rubro": "CRIANZA Y COMERCIALIZACION DE PORCINOS",
+    "ubicacion": {
+      "departamento": "AREQUIPA",
+      "provincia": "LA UNION",
+      "distrito": "CHARCANA",
+      "localidad": "ANDAMARCA"
+    },
+    "integrantes": {
+      "presidente": "LEYDI DIANA HEREDIA VERA",
+      "secretario": "REYNA FELICITAS VERA DE HEREDIA",
+      "tesorero": "ZENÓN HEREDIA CABANA"
+    }
+  },
+  {
+    "id": 2,
+    "linea_negocio": "HUEVOS FRESCOS DE LIBRE PASTOREO",
+    "nombre_emprendimiento": "PLUMAS DORADAS",
+    "rubro": "CRIANZA PRODUCCION Y COMERCIALIZACION DE GALLINAS PONEDORAS",
+    "ubicacion": {
+      "departamento": "AREQUIPA",
+      "provincia": "LA UNION",
+      "distrito": "QUECHUALLA",
+      "localidad": "ROSARIO PAMPA"
+    },
+    "integrantes": {
+      "presidente": "VÍCTOR PAÚL VALER CHUQUITAYPE",
+      "secretario": "MARCELINA ELIZABET CHUQUITAYPE DE VALER",
+      "tesorero": "JACINTO CANAHUIRE DIAZ"
+    }
+  },
+  {
+    "id": 3,
+    "linea_negocio": "CUYES BENEFICIADOS",
+    "nombre_emprendimiento": "GRANJA DE CUYES CUYAU",
+    "rubro": "CRIANZA Y COMERCIALIZACION DE CUYES",
+    "ubicacion": {
+      "departamento": "AREQUIPA",
+      "provincia": "LA UNION",
+      "distrito": "COTAHUASI",
+      "localidad": "CUYAU"
+    },
+    "integrantes": {
+      "presidente": "RICHARD JAIME HUARHUA BARRIGA",
+      "secretario": "MARÍA LUS LUISA BARRIGA QUISPE",
+      "tesorero": "MARUJA HUARHUA BARRIGA"
+    }
+  },
+  {
+    "id": 4,
+    "linea_negocio": "VINO ARTESANAL",
+    "nombre_emprendimiento": "CERVANTES",
+    "rubro": "TRANSFORMACION PRODUCCION Y COMERCIALIZACION DE VINOS ARTESANALES Y PISCOS",
+    "ubicacion": {
+      "departamento": "AREQUIPA",
+      "provincia": "LA UNION",
+      "distrito": "QUECHUALLA",
+      "localidad": "QUECHUALLA"
+    },
+    "integrantes": {
+      "presidente": "CIRO CERVANTES CANALES",
+      "secretario": "JUSTINA PROCERPINA CANALES BUSHUAR",
+      "tesorero": "RENILA DUEÑAS SECAIRA"
+    }
+  },
+  {
+    "id": 5,
+    "linea_negocio": "SERVICIO DE HOSPEDAJE",
+    "nombre_emprendimiento": "DULCE SUEÑO",
+    "rubro": "MEJORA DEL SERVICIO DE HOSPEDAJE",
+    "ubicacion": {
+      "departamento": "AREQUIPA",
+      "provincia": "LA UNION",
+      "distrito": "QUECHUALLA",
+      "localidad": "QUECHUALLA"
+    },
+    "integrantes": {
+      "presidente": "YANE NILDA ARANZAMENDI HUARCAYA",
+      "secretario": "MÁXIMO SIMÓN PÉREZ HUAMANI",
+      "tesorero": "BRITNEY KEYHT LAZARTE ARANZAMENDI"
+    }
+  },
+  {
+    "id": 6,
+    "linea_negocio": "MIEL NATURAL",
+    "nombre_emprendimiento": "APICULTURA LOPEZ",
+    "rubro": "PRODUCCION Y COMERCIALIZACION DE MIEL",
+    "ubicacion": {
+      "departamento": "AREQUIPA",
+      "provincia": "LA UNION",
+      "distrito": "QUECHUALLA",
+      "localidad": "QUECHUALLA"
+    },
+    "integrantes": {
+      "presidente": "JORGE LÓPEZ DUEÑAS",
+      "secretario": "VERÓNICA ANTONIA HUARANCA FARFÁN",
+      "tesorero": "YESICA PAULINA HUARANCA FARFÁN"
+    }
+  },
+  {
+    "id": 7,
+    "linea_negocio": "PANADERIA ARTESANAL",
+    "nombre_emprendimiento": "PANADERIA JOSUE",
+    "rubro": "PRODUCCION Y VENTA DE PANES, PASTELES Y TORTAS",
+    "ubicacion": {
+      "departamento": "AREQUIPA",
+      "provincia": "LA UNION",
+      "distrito": "QUECHUALLA",
+      "localidad": "QUECHUALLA"
+    },
+    "integrantes": {
+      "presidente": "FAUSTINO P CANDIA ÁLVARO",
+      "secretario": "YSABEL FABIANA LLAZA LOPEZ",
+      "tesorero": "JULIAN EDWIN MENDOZA ANGULO"
+    }
+  },
+  {
+    "id": 8,
+    "linea_negocio": "TRUCHA FRESCA DE PISCIGRANJA",
+    "nombre_emprendimiento": "PISCIGRANJA DON LUIS",
+    "rubro": "PRODUCCION Y COMERCIALIZACION DE TRUCHAS",
+    "ubicacion": {
+      "departamento": "AREQUIPA",
+      "provincia": "LA UNION",
+      "distrito": "CHARCANA",
+      "localidad": "CHARCANA"
+    },
+    "integrantes": {
+      "presidente": "YOMAYRA NESIDA GUZMÁN MOTTA",
+      "secretario": "YMACULADA GUZMÁN HUAMANI",
+      "tesorero": "LEONOR ANASTACIA HUAMANI GASPAR"
+    }
+  },
+  {
+    "id": 9,
+    "linea_negocio": "HORTALIZAS FRESCAS",
+    "nombre_emprendimiento": "LAS SEMILLAS DEL FUTURO",
+    "rubro": "PRODUCCION DE HORTALIZAS ORGANICAS EN FITOTOLDO",
+    "ubicacion": {
+      "departamento": "AREQUIPA",
+      "provincia": "LA UNION",
+      "distrito": "CHARCANA",
+      "localidad": "CHARCANA"
+    },
+    "integrantes": {
+      "presidente": "ALFONSO ANGEL SANCHO CASANI",
+      "secretario": "DELFINA FARFAN DE HUARANCA",
+      "tesorero": "SERGIO FARFAN NARAGIO"
+    }
+  },
+  {
+    "id": 10,
+    "linea_negocio": "FRUTOS DESHIDRATADOS NATURALES",
+    "nombre_emprendimiento": "NUTRINATURA",
+    "rubro": "PRODUCCION TRANSFORMACION Y COMERCIALIZACION DE PRODUCTOS FRUTICOLAS",
+    "ubicacion": {
+      "departamento": "AREQUIPA",
+      "provincia": "LA UNION",
+      "distrito": "QUECHUALLA",
+      "localidad": "VELINGA"
+    },
+    "integrantes": {
+      "presidente": "ANASTACIO IGNACIO CHAMANA BUIZA",
+      "secretario": "SEGUNDO SÁNCHEZ HEREDIA",
+      "tesorero": "NOLBERTO GUILLERMO HEREDIA VALENCIA"
+    }
+  }
+]
