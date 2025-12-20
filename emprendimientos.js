@@ -53,35 +53,59 @@ function renderEmprendimientos(data, lineaSeleccionada) {
     const imagen = imagenPorLinea[item.id_linea] || "images/default.png";
 
     contenedor.innerHTML += `
-      <article class="bg-slate-800 rounded-xl p-4 flex flex-col">
+<article class="bg-slate-800 rounded-xl p-5 flex flex-col gap-4">
 
-        <div class="flex gap-4">
-          
-          <div class="w-24 h-24 flex-shrink-0">
-            <img 
-              src="${imagen}"
-              alt="${item.nombre_emprendimiento}"
-              class="w-full h-full object-cover rounded-xl"
-            />
-          </div>
+  <!-- Encabezado -->
+  <div class="flex gap-4 items-center">
+    
+    <div class="w-28 h-28 flex-shrink-0">
+      <img 
+        src="${imagen}"
+        alt="${item.nombre_emprendimiento}"
+        class="w-full h-full object-cover rounded-xl"
+      />
+    </div>
 
-          <div class="flex flex-col">
-            <h3 class="font-semibold">
-              ${item.nombre_emprendimiento}
-            </h3>
+    <div>
+      <h3 class="text-lg font-bold text-white">
+        ${item.nombre_emprendimiento}
+      </h3>
 
-            <p class="text-sm text-slate-400 mt-1">
-              ${item.rubro}
-            </p>
+      <p class="text-sm text-yellow-500 mt-1">
+        ${item.linea_negocio}
+      </p>
 
-            <p class="text-xs text-slate-500 mt-1">
-              ${item.ubicacion.distrito} - ${item.ubicacion.localidad}
-            </p>
-          </div>
+      <p class="text-xs text-slate-400 mt-1">
+        📍 ${item.ubicacion.distrito}, ${item.ubicacion.localidad}
+      </p>
+    </div>
+  </div>
 
-        </div>
+  <!-- Descripción -->
+  <p class="text-sm text-slate-300 leading-relaxed">
+    Este emprendimiento se dedica a la 
+    <strong>${item.rubro.toLowerCase()}</strong>, 
+    desarrollando sus actividades de manera artesanal y sostenible.
+    Su producción contribuye al desarrollo económico local, 
+    ofreciendo productos de calidad elaborados con esfuerzo familiar
+    y compromiso con la comunidad.
+  </p>
 
-      </article>
+  <!-- Integrantes -->
+  <div class="bg-slate-700 rounded-lg p-3">
+    <h4 class="text-sm font-semibold text-white mb-2">
+      👥 Integrantes
+    </h4>
+
+    <ul class="text-sm text-slate-300 space-y-1">
+      <li><strong>Presidente:</strong> ${item.integrantes.presidente}</li>
+      <li><strong>Secretario:</strong> ${item.integrantes.secretario}</li>
+      <li><strong>Tesorero:</strong> ${item.integrantes.tesorero}</li>
+    </ul>
+  </div>
+
+</article>
+
     `;
   });
 }
