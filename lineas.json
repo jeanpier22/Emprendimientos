@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+    "id_linea": "PORCINOS",
     "nombre": "Productos Porcinos",
     "icono": "🐖",
     "imagen": "images/lineas/porcinos.png",
@@ -8,6 +9,7 @@
   },
   {
     "id": 2,
+    "id_linea": "HUEVOS",
     "nombre": "Huevos Frescos de Libre Pastoreo",
     "icono": "🥚",
     "imagen": "images/lineas/huevos.png",
@@ -15,6 +17,7 @@
   },
   {
     "id": 3,
+    "id_linea": "CUYES",
     "nombre": "Cuyes Beneficiados",
     "icono": "🐹",
     "imagen": "images/lineas/cuyes.png",
@@ -22,6 +25,7 @@
   },
   {
     "id": 4,
+    "id_linea": "VINOS",
     "nombre": "Vino Artesanal",
     "icono": "🍷",
     "imagen": "images/lineas/vinos.png",
@@ -29,6 +33,7 @@
   },
   {
     "id": 5,
+    "id_linea": "HOSPEDAJE",
     "nombre": "Servicio de Hospedaje",
     "icono": "🏡",
     "imagen": "images/lineas/hospedaje.png",
@@ -36,6 +41,7 @@
   },
   {
     "id": 6,
+    "id_linea": "MIEL",
     "nombre": "Miel Natural",
     "icono": "🍯",
     "imagen": "images/lineas/miel.png",
@@ -43,6 +49,7 @@
   },
   {
     "id": 7,
+    "id_linea": "PANADERIA",
     "nombre": "Panadería Artesanal",
     "icono": "🍞",
     "imagen": "images/lineas/pan.png",
@@ -50,6 +57,7 @@
   },
   {
     "id": 8,
+    "id_linea": "TRUCHA",
     "nombre": "Trucha Fresca de Piscigranja",
     "icono": "🐟",
     "imagen": "images/lineas/trucha.png",
@@ -57,6 +65,7 @@
   },
   {
     "id": 9,
+    "id_linea": "HORTALIZAS",
     "nombre": "Hortalizas Frescas",
     "icono": "🥬",
     "imagen": "images/lineas/hortalizas.png",
@@ -64,6 +73,7 @@
   },
   {
     "id": 10,
+    "id_linea": "FRUTOS",
     "nombre": "Frutos Deshidratados Naturales",
     "icono": "🍎",
     "imagen": "images/lineas/frutos.png",

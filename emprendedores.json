@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+    "id_linea": "PORCINOS",
     "linea_negocio": "PRODUCTOS PORCINOS",
     "nombre_emprendimiento": "CRIADERO DE PORCINOS HHV",
     "rubro": "CRIANZA Y COMERCIALIZACION DE PORCINOS",
@@ -18,6 +19,25 @@
   },
   {
     "id": 2,
+    "id_linea": "PORCINOS",
+    "linea_negocio": "PRODUCTOS PORCINOS",
+    "nombre_emprendimiento": "FUNDO TRAPICHE",
+    "rubro": "CRIANZA Y COMERCIALIZACION DE PORCINOS",
+    "ubicacion": {
+      "departamento": "AREQUIPA",
+      "provincia": "LA UNION",
+      "distrito": "CHARCANA",
+      "localidad": "CHARCANA"
+    },
+    "integrantes": {
+      "presidente": "CANDELARIA QUISPE HUARANCA",
+      "secretario": "MAURA ANGELICA MANSILLA TORRE BLANCA DE PÉREZ",
+      "tesorero": "ANGELICA BERNAOLA HUAMANI"
+    }
+  },
+  {
+    "id": 3,
+    "id_linea": "HUEVOS",
     "linea_negocio": "HUEVOS FRESCOS DE LIBRE PASTOREO",
     "nombre_emprendimiento": "PLUMAS DORADAS",
     "rubro": "CRIANZA PRODUCCION Y COMERCIALIZACION DE GALLINAS PONEDORAS",
@@ -34,7 +54,26 @@
     }
   },
   {
-    "id": 3,
+    "id": 4,
+    "id_linea": "HUEVOS",
+    "linea_negocio": "HUEVOS FRESCOS DE LIBRE PASTOREO",
+    "nombre_emprendimiento": "PUKA HUALLPA",
+    "rubro": "CRIANZA PRODUCCION Y COMERCIALIZACION DE GALLINAS PONEDORAS",
+    "ubicacion": {
+      "departamento": "AREQUIPA",
+      "provincia": "LA UNION",
+      "distrito": "QUECHUALLA",
+      "localidad": "CHAUPO"
+    },
+    "integrantes": {
+      "presidente": "JOSÉ VIVIAN ANCASI GARCIA",
+      "secretario": "ROXANA MARISOL ANCASI GARCÍA",
+      "tesorero": "NATIVIDAD ALONSO RETAMOSO ESPINAL"
+    }
+  },
+  {
+    "id": 5,
+    "id_linea": "CUYES",
     "linea_negocio": "CUYES BENEFICIADOS",
     "nombre_emprendimiento": "GRANJA DE CUYES CUYAU",
     "rubro": "CRIANZA Y COMERCIALIZACION DE CUYES",
@@ -51,7 +90,44 @@
     }
   },
   {
-    "id": 4,
+    "id": 6,
+    "id_linea": "CUYES",
+    "linea_negocio": "CUYES BENEFICIADOS",
+    "nombre_emprendimiento": "CUY GOLD",
+    "rubro": "CRIANZA Y COMERCIALIZACION DE CUYES",
+    "ubicacion": {
+      "departamento": "AREQUIPA",
+      "provincia": "LA UNION",
+      "distrito": "CHARCANA",
+      "localidad": "CHARCANA"
+    },
+    "integrantes": {
+      "presidente": "NAYDA MABEL GASPAR QUISPE",
+      "secretario": "CYNTHIA YANETH GASPAR QUISPE",
+      "tesorero": "CELINDA MARÍA QUISPE HUARANCA"
+    }
+  },
+  {
+    "id": 7,
+    "id_linea": "CUYES",
+    "linea_negocio": "CUYES BENEFICIADOS",
+    "nombre_emprendimiento": "LAS TRIUNFADORAS",
+    "rubro": "CRIANZA Y COMERCIALIZACION DE CUYES",
+    "ubicacion": {
+      "departamento": "AREQUIPA",
+      "provincia": "LA UNION",
+      "distrito": "CHARCANA",
+      "localidad": "AYAPALLPA"
+    },
+    "integrantes": {
+      "presidente": "GLADIS GASPAR CAHUANA",
+      "secretario": "ALICIA MANUELA QUISPE HUGO",
+      "tesorero": "NIEVES CÁCERES HUAMANI"
+    }
+  },
+  {
+    "id": 8,
+    "id_linea": "VINOS",
     "linea_negocio": "VINO ARTESANAL",
     "nombre_emprendimiento": "CERVANTES",
     "rubro": "TRANSFORMACION PRODUCCION Y COMERCIALIZACION DE VINOS ARTESANALES Y PISCOS",
@@ -68,7 +144,44 @@
     }
   },
   {
-    "id": 5,
+    "id": 9,
+    "id_linea": "VINOS",
+    "linea_negocio": "VINO ARTESANAL",
+    "nombre_emprendimiento": "LEGADOS HEREDIA",
+    "rubro": "PRODUCCION Y COMERCIALIZACION DE VINOS ARTESANALES Y PISCOS",
+    "ubicacion": {
+      "departamento": "AREQUIPA",
+      "provincia": "LA UNION",
+      "distrito": "QUECHUALLA",
+      "localidad": "ROSARIO PAMPA"
+    },
+    "integrantes": {
+      "presidente": "ADAN HEREDIA BUIZA",
+      "secretario": "JUAN DEONICIO CARHUAS BUIZA",
+      "tesorero": "ISIDORA AMBROCIA CHUQUITAIPE CHAMANA"
+    }
+  },
+  {
+    "id": 10,
+    "id_linea": "VINOS",
+    "linea_negocio": "VINO ARTESANAL",
+    "nombre_emprendimiento": "VINOS Y PISCOS FUNDO DEL ROSARIO",
+    "rubro": "PRODUCCION Y COMERCIALIZACION DE VINOS ARTESANALES Y PISCOS",
+    "ubicacion": {
+      "departamento": "AREQUIPA",
+      "provincia": "LA UNION",
+      "distrito": "QUECHUALLA",
+      "localidad": "ROSARIO PAMPA"
+    },
+    "integrantes": {
+      "presidente": "ESTINASLAO DIEGO HEREDIA BUIZA",
+      "secretario": "TRINIDAD ANTONIA ESPINAL RETAMOZO",
+      "tesorero": "BLANCA TERESA HEREDIA AHUANLLA"
+    }
+  },
+  {
+    "id": 11,
+    "id_linea": "HOSPEDAJE",
     "linea_negocio": "SERVICIO DE HOSPEDAJE",
     "nombre_emprendimiento": "DULCE SUEÑO",
     "rubro": "MEJORA DEL SERVICIO DE HOSPEDAJE",
@@ -85,7 +198,26 @@
     }
   },
   {
-    "id": 6,
+    "id": 12,
+    "id_linea": "HOSPEDAJE",
+    "linea_negocio": "SERVICIO DE HOSPEDAJE",
+    "nombre_emprendimiento": "HOSPEDAJE HEREDIA",
+    "rubro": "MEJORA DEL SERVICIO DE HOSPEDAJE",
+    "ubicacion": {
+      "departamento": "AREQUIPA",
+      "provincia": "LA UNION",
+      "distrito": "COTAHUASI",
+      "localidad": "COTAHUASI"
+    },
+    "integrantes": {
+      "presidente": "HÉCTOR JOSÉ HEREDIA ESPINAL",
+      "secretario": "LEISER EDISON HEREDIA ESPINAL",
+      "tesorero": "GAIDA NOA CORNEJO"
+    }
+  },
+  {
+    "id": 13,
+    "id_linea": "MIEL",
     "linea_negocio": "MIEL NATURAL",
     "nombre_emprendimiento": "APICULTURA LOPEZ",
     "rubro": "PRODUCCION Y COMERCIALIZACION DE MIEL",
@@ -102,7 +234,26 @@
     }
   },
   {
-    "id": 7,
+    "id": 14,
+    "id_linea": "MIEL",
+    "linea_negocio": "MIEL NATURAL",
+    "nombre_emprendimiento": "PEQUEÑAS ALAS GRANDES CAMBIOS",
+    "rubro": "PRODUCCION Y COMERCIALIZACION DE MIEL",
+    "ubicacion": {
+      "departamento": "AREQUIPA",
+      "provincia": "LA UNION",
+      "distrito": "QUECHUALLA",
+      "localidad": "QUECHUALLA"
+    },
+    "integrantes": {
+      "presidente": "JUAN MANUEL VIDAL QUISPE QUISPE",
+      "secretario": "NELY PORTUGAL HUARCAYA",
+      "tesorero": "CARLOS QUISPE QUISPE"
+    }
+  },
+  {
+    "id": 15,
+    "id_linea": "PANADERIA",
     "linea_negocio": "PANADERIA ARTESANAL",
     "nombre_emprendimiento": "PANADERIA JOSUE",
     "rubro": "PRODUCCION Y VENTA DE PANES, PASTELES Y TORTAS",
@@ -119,7 +270,26 @@
     }
   },
   {
-    "id": 8,
+    "id": 16,
+    "id_linea": "PANADERIA",
+    "linea_negocio": "PANADERIA ARTESANAL",
+    "nombre_emprendimiento": "PANADERIA LAS DELICIAS",
+    "rubro": "PRODUCCION Y VENTA DE PANES, PASTELES Y TORTAS",
+    "ubicacion": {
+      "departamento": "AREQUIPA",
+      "provincia": "LA UNION",
+      "distrito": "CHARCANA",
+      "localidad": "CHARCANA"
+    },
+    "integrantes": {
+      "presidente": "JULIAN LUDGARDO SORIA NARAGIO",
+      "secretario": "SENDY TERESA SORIA RETAMOZO",
+      "tesorero": "JULISSA LISBETH SORIA RETAMOZO"
+    }
+  },
+  {
+    "id": 17,
+    "id_linea": "TRUCHA",
     "linea_negocio": "TRUCHA FRESCA DE PISCIGRANJA",
     "nombre_emprendimiento": "PISCIGRANJA DON LUIS",
     "rubro": "PRODUCCION Y COMERCIALIZACION DE TRUCHAS",
@@ -136,7 +306,26 @@
     }
   },
   {
-    "id": 9,
+    "id": 18,
+    "id_linea": "TRUCHA",
+    "linea_negocio": "TRUCHA FRESCA DE PISCIGRANJA",
+    "nombre_emprendimiento": "PISCIGRANJA CHALLWAMAYO",
+    "rubro": "PRODUCCION Y COMERCIALIZACION DE ALEVINES",
+    "ubicacion": {
+      "departamento": "AREQUIPA",
+      "provincia": "LA UNION",
+      "distrito": "QUECHUALLA",
+      "localidad": "QUECHUALLA"
+    },
+    "integrantes": {
+      "presidente": "ALDO ENRIQUE CORDOVA HEREDIA",
+      "secretario": "GLENY EGUIA VERA",
+      "tesorero": "CÓRDOVA ALVAREZ NÉSTOR ENRIQUE"
+    }
+  },
+  {
+    "id": 19,
+    "id_linea": "HORTALIZAS",
     "linea_negocio": "HORTALIZAS FRESCAS",
     "nombre_emprendimiento": "LAS SEMILLAS DEL FUTURO",
     "rubro": "PRODUCCION DE HORTALIZAS ORGANICAS EN FITOTOLDO",
@@ -153,7 +342,8 @@
     }
   },
   {
-    "id": 10,
+    "id": 20,
+    "id_linea": "FRUTOS",
     "linea_negocio": "FRUTOS DESHIDRATADOS NATURALES",
     "nombre_emprendimiento": "NUTRINATURA",
     "rubro": "PRODUCCION TRANSFORMACION Y COMERCIALIZACION DE PRODUCTOS FRUTICOLAS",
