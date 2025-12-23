@@ -3,14 +3,18 @@
     "id": 1,
     "id_linea": "PORCINOS",
     "linea_negocio": "PRODUCTOS PORCINOS",
-    "nombre_emprendimiento": "CRIADERO DE PORCINOS HHV",
+    "nombre_emprendimiento": "Criadero de Porcinos HHV",
     "rubro": "CRIANZA Y COMERCIALIZACION DE PORCINOS",
+    "descripcion": "Emprendimiento familiar CRIADERO DE PORCINOS HHV dedicado a la crianza responsable de porcinos, aplicando buenas prácticas sanitarias y sostenibles. Nuestro objetivo es ofrecer productos de alta calidad, fortaleciendo la economía local y preservando las tradiciones productivas de la zona.",
+    "celular": "958741201",
+    "correo": "criaderodeporcinoshhv@gmail.com",
     "ubicacion": {
       "departamento": "AREQUIPA",
       "provincia": "LA UNION",
       "distrito": "CHARCANA",
       "localidad": "ANDAMARCA"
     },
+    "maps": "https://www.google.com/maps?q=-15.235553, -73.013826&t=k&z=15&output=embed",
     "integrantes": {
       "presidente": "LEYDI DIANA HEREDIA VERA",
       "secretario": "REYNA FELICITAS VERA DE HEREDIA",
@@ -21,14 +25,18 @@
     "id": 2,
     "id_linea": "PORCINOS",
     "linea_negocio": "PRODUCTOS PORCINOS",
-    "nombre_emprendimiento": "FUNDO TRAPICHE",
+    "nombre_emprendimiento": "Fundo Trapiche",
     "rubro": "CRIANZA Y COMERCIALIZACION DE PORCINOS",
+    "descripcion": "Emprendimiento familiar FUNDO TRAPICHE dedicado a la crianza responsable de porcinos, garantizando carne de calidad mediante prácticas sanitarias adecuadas y sostenibles, contribuyendo al desarrollo económico local.",
+    "celular": "958741202",
+    "correo": "fundotrapiche@gmail.com",
     "ubicacion": {
       "departamento": "AREQUIPA",
       "provincia": "LA UNION",
       "distrito": "CHARCANA",
       "localidad": "CHARCANA"
     },
+    "maps": "https://www.google.com/maps?q=-15.240381, -73.070402&t=k&z=15&output=embed",
     "integrantes": {
       "presidente": "CANDELARIA QUISPE HUARANCA",
       "secretario": "MAURA ANGELICA MANSILLA TORRE BLANCA DE PÉREZ",
@@ -39,14 +47,18 @@
     "id": 3,
     "id_linea": "HUEVOS",
     "linea_negocio": "HUEVOS FRESCOS DE LIBRE PASTOREO",
-    "nombre_emprendimiento": "PLUMAS DORADAS",
+    "nombre_emprendimiento": "Plumas Doradas",
     "rubro": "CRIANZA PRODUCCION Y COMERCIALIZACION DE GALLINAS PONEDORAS",
+    "descripcion": "Emprendimiento familiar PLUMAS DORADAS dedicado a la crianza de gallinas ponedoras de libre pastoreo, produciendo huevos frescos y nutritivos mediante prácticas responsables y amigables con el medio ambiente.",
+    "celular": "958741203",
+    "correo": "plumasdoradas@gmail.com",
     "ubicacion": {
       "departamento": "AREQUIPA",
       "provincia": "LA UNION",
       "distrito": "QUECHUALLA",
       "localidad": "ROSARIO PAMPA"
     },
+    "maps": "https://www.google.com/maps?q=-15.255060, -72.992621&t=k&z=15&output=embed",
     "integrantes": {
       "presidente": "VÍCTOR PAÚL VALER CHUQUITAYPE",
       "secretario": "MARCELINA ELIZABET CHUQUITAYPE DE VALER",
@@ -57,14 +69,18 @@
     "id": 4,
     "id_linea": "HUEVOS",
     "linea_negocio": "HUEVOS FRESCOS DE LIBRE PASTOREO",
-    "nombre_emprendimiento": "PUKA HUALLPA",
+    "nombre_emprendimiento": "Puka Huallpa",
     "rubro": "CRIANZA PRODUCCION Y COMERCIALIZACION DE GALLINAS PONEDORAS",
+    "descripcion": "Emprendimiento familiar PUKA HUALLPA enfocado en la producción de huevos frescos de libre pastoreo, promoviendo el bienestar animal, la alimentación saludable y el desarrollo productivo local.",
+    "celular": "958741204",
+    "correo": "pukahuallpa@gmail.com",
     "ubicacion": {
       "departamento": "AREQUIPA",
       "provincia": "LA UNION",
       "distrito": "QUECHUALLA",
       "localidad": "CHAUPO"
     },
+    "maps": "https://www.google.com/maps?q=-15.324263, -73.057679&t=k&z=15&output=embed",    
     "integrantes": {
       "presidente": "JOSÉ VIVIAN ANCASI GARCIA",
       "secretario": "ROXANA MARISOL ANCASI GARCÍA",
@@ -75,14 +91,18 @@
     "id": 5,
     "id_linea": "CUYES",
     "linea_negocio": "CUYES BENEFICIADOS",
-    "nombre_emprendimiento": "GRANJA DE CUYES CUYAU",
+    "nombre_emprendimiento": "Granja de Cuyes Cuyau",
     "rubro": "CRIANZA Y COMERCIALIZACION DE CUYES",
+    "descripcion": "Emprendimiento familiar GRANJA DE CUYES CUYAU dedicado a la crianza tecnificada de cuyes, aplicando buenas prácticas sanitarias para ofrecer productos de calidad que fortalecen la economía local.",
+    "celular": "958741205",
+    "correo": "granjadecuyescuyau@gmail.com",
     "ubicacion": {
       "departamento": "AREQUIPA",
       "provincia": "LA UNION",
       "distrito": "COTAHUASI",
       "localidad": "CUYAU"
     },
+    "maps": "https://www.google.com/maps?q=-15.211338, -72.938149&t=k&z=15&output=embed",
     "integrantes": {
       "presidente": "RICHARD JAIME HUARHUA BARRIGA",
       "secretario": "MARÍA LUS LUISA BARRIGA QUISPE",
@@ -93,14 +113,18 @@
     "id": 6,
     "id_linea": "CUYES",
     "linea_negocio": "CUYES BENEFICIADOS",
-    "nombre_emprendimiento": "CUY GOLD",
+    "nombre_emprendimiento": "Cuy Gold",
     "rubro": "CRIANZA Y COMERCIALIZACION DE CUYES",
+    "descripcion": "Emprendimiento familiar CUY GOLD orientado a la crianza y comercialización de cuyes beneficiados, priorizando la calidad, la inocuidad alimentaria y el desarrollo sostenible.",
+    "celular": "958741206",
+    "correo": "cuygold@gmail.com",
     "ubicacion": {
       "departamento": "AREQUIPA",
       "provincia": "LA UNION",
       "distrito": "CHARCANA",
       "localidad": "CHARCANA"
     },
+    "maps": "https://www.google.com/maps?q=-15.240381, -73.070402&t=k&z=15&output=embed",
     "integrantes": {
       "presidente": "NAYDA MABEL GASPAR QUISPE",
       "secretario": "CYNTHIA YANETH GASPAR QUISPE",
@@ -111,14 +135,18 @@
     "id": 7,
     "id_linea": "CUYES",
     "linea_negocio": "CUYES BENEFICIADOS",
-    "nombre_emprendimiento": "LAS TRIUNFADORAS",
+    "nombre_emprendimiento": "Las Triunfadoras",
     "rubro": "CRIANZA Y COMERCIALIZACION DE CUYES",
+    "descripcion": "Emprendimiento familiar LAS TRIUNFADORAS dedicado a la crianza y comercialización de cuyes, impulsando el trabajo asociativo, la economía familiar y la seguridad alimentaria.",
+    "celular": "958741207",
+    "correo": "lastriunfadoras@gmail.com",
     "ubicacion": {
       "departamento": "AREQUIPA",
       "provincia": "LA UNION",
       "distrito": "CHARCANA",
       "localidad": "AYAPALLPA"
     },
+    "maps": "https://www.google.com/maps?q=-15.225604, -73.063855&t=k&z=15&output=embed",
     "integrantes": {
       "presidente": "GLADIS GASPAR CAHUANA",
       "secretario": "ALICIA MANUELA QUISPE HUGO",
@@ -129,14 +157,18 @@
     "id": 8,
     "id_linea": "VINOS",
     "linea_negocio": "VINO ARTESANAL",
-    "nombre_emprendimiento": "CERVANTES",
+    "nombre_emprendimiento": "Cervantes",
     "rubro": "TRANSFORMACION PRODUCCION Y COMERCIALIZACION DE VINOS ARTESANALES Y PISCOS",
+    "descripcion": "Emprendimiento familiar CERVANTES dedicado a la elaboración artesanal de vinos y piscos, rescatando técnicas tradicionales y promoviendo la identidad cultural de la zona.",
+    "celular": "958741208",
+    "correo": "vinoscervantes@gmail.com",
     "ubicacion": {
       "departamento": "AREQUIPA",
       "provincia": "LA UNION",
       "distrito": "QUECHUALLA",
       "localidad": "QUECHUALLA"
     },
+    "maps": "https://www.google.com/maps?q=-15.324263, -73.057679&t=k&z=15&output=embed",
     "integrantes": {
       "presidente": "CIRO CERVANTES CANALES",
       "secretario": "JUSTINA PROCERPINA CANALES BUSHUAR",
@@ -147,14 +179,18 @@
     "id": 9,
     "id_linea": "VINOS",
     "linea_negocio": "VINO ARTESANAL",
-    "nombre_emprendimiento": "LEGADOS HEREDIA",
+    "nombre_emprendimiento": "Legados Heredia",
     "rubro": "PRODUCCION Y COMERCIALIZACION DE VINOS ARTESANALES Y PISCOS",
+    "descripcion": "Emprendimiento familiar LEGADOS HEREDIA orientado a la producción de vinos y piscos artesanales, preservando el legado vitivinícola y generando valor agregado local.",
+    "celular": "958741209",
+    "correo": "legadosheredia@gmail.com",
     "ubicacion": {
       "departamento": "AREQUIPA",
       "provincia": "LA UNION",
       "distrito": "QUECHUALLA",
       "localidad": "ROSARIO PAMPA"
     },
+    "maps": "https://www.google.com/maps?q=-15.255060, -72.992621&t=k&z=15&output=embed",
     "integrantes": {
       "presidente": "ADAN HEREDIA BUIZA",
       "secretario": "JUAN DEONICIO CARHUAS BUIZA",
@@ -165,14 +201,18 @@
     "id": 10,
     "id_linea": "VINOS",
     "linea_negocio": "VINO ARTESANAL",
-    "nombre_emprendimiento": "VINOS Y PISCOS FUNDO DEL ROSARIO",
+    "nombre_emprendimiento": "Vinos y Piscos Fundo del Rosario",
     "rubro": "PRODUCCION Y COMERCIALIZACION DE VINOS ARTESANALES Y PISCOS",
+    "descripcion": "Emprendimiento familiar VINOS Y PISCOS FUNDO DEL ROSARIO dedicado a la elaboración de vinos y piscos artesanales de alta calidad, promoviendo el turismo y la producción local.",
+    "celular": "958741210",
+    "correo": "fundodelrosario@gmail.com",
     "ubicacion": {
       "departamento": "AREQUIPA",
       "provincia": "LA UNION",
       "distrito": "QUECHUALLA",
       "localidad": "ROSARIO PAMPA"
     },
+    "maps": "https://www.google.com/maps?q=-15.255060, -72.992621&t=k&z=15&output=embed",
     "integrantes": {
       "presidente": "ESTINASLAO DIEGO HEREDIA BUIZA",
       "secretario": "TRINIDAD ANTONIA ESPINAL RETAMOZO",
@@ -183,14 +223,18 @@
     "id": 11,
     "id_linea": "HOSPEDAJE",
     "linea_negocio": "SERVICIO DE HOSPEDAJE",
-    "nombre_emprendimiento": "DULCE SUEÑO",
+    "nombre_emprendimiento": "Dulce Sueño",
     "rubro": "MEJORA DEL SERVICIO DE HOSPEDAJE",
+    "descripcion": "Emprendimiento familiar DULCE SUEÑO dedicado a brindar servicios de hospedaje confortable y seguro, orientado a turistas y visitantes, promoviendo el turismo local.",
+    "celular": "958741211",
+    "correo": "dulcesueno@gmail.com",
     "ubicacion": {
       "departamento": "AREQUIPA",
       "provincia": "LA UNION",
       "distrito": "QUECHUALLA",
       "localidad": "QUECHUALLA"
     },
+    "maps": "https://www.google.com/maps?q=-15.324263, -73.057679&t=k&z=15&output=embed",
     "integrantes": {
       "presidente": "YANE NILDA ARANZAMENDI HUARCAYA",
       "secretario": "MÁXIMO SIMÓN PÉREZ HUAMANI",
@@ -201,14 +245,18 @@
     "id": 12,
     "id_linea": "HOSPEDAJE",
     "linea_negocio": "SERVICIO DE HOSPEDAJE",
-    "nombre_emprendimiento": "HOSPEDAJE HEREDIA",
+    "nombre_emprendimiento": "Hospedaje Heredia",
     "rubro": "MEJORA DEL SERVICIO DE HOSPEDAJE",
+    "descripcion": "Emprendimiento familiar HOSPEDAJE HEREDIA enfocado en ofrecer alojamiento cómodo y accesible, contribuyendo a una experiencia agradable para los visitantes.",
+    "celular": "958741212",
+    "correo": "hospedajeheredia@gmail.com",
     "ubicacion": {
       "departamento": "AREQUIPA",
       "provincia": "LA UNION",
       "distrito": "COTAHUASI",
       "localidad": "COTAHUASI"
     },
+    "maps": "https://www.google.com/maps?q=-15.212188, -72.890511&t=k&z=15&output=embed",
     "integrantes": {
       "presidente": "HÉCTOR JOSÉ HEREDIA ESPINAL",
       "secretario": "LEISER EDISON HEREDIA ESPINAL",
@@ -219,14 +267,18 @@
     "id": 13,
     "id_linea": "MIEL",
     "linea_negocio": "MIEL NATURAL",
-    "nombre_emprendimiento": "APICULTURA LOPEZ",
+    "nombre_emprendimiento": "Apicultura López",
     "rubro": "PRODUCCION Y COMERCIALIZACION DE MIEL",
+    "descripcion": "Emprendimiento familiar APICULTURA LOPEZ dedicado a la producción de miel natural, aplicando prácticas apícolas sostenibles que protegen el medio ambiente.",
+    "celular": "958741213",
+    "correo": "apiculturalopez@gmail.com",
     "ubicacion": {
       "departamento": "AREQUIPA",
       "provincia": "LA UNION",
       "distrito": "QUECHUALLA",
       "localidad": "QUECHUALLA"
     },
+    "maps": "https://www.google.com/maps?q=-15.324263, -73.057679&t=k&z=15&output=embed",
     "integrantes": {
       "presidente": "JORGE LÓPEZ DUEÑAS",
       "secretario": "VERÓNICA ANTONIA HUARANCA FARFÁN",
@@ -237,14 +289,18 @@
     "id": 14,
     "id_linea": "MIEL",
     "linea_negocio": "MIEL NATURAL",
-    "nombre_emprendimiento": "PEQUEÑAS ALAS GRANDES CAMBIOS",
+    "nombre_emprendimiento": "Pequeñas Alas Grandes Cambios",
     "rubro": "PRODUCCION Y COMERCIALIZACION DE MIEL",
+    "descripcion": "Emprendimiento familiar PEQUEÑAS ALAS GRANDES CAMBIOS orientado a la producción de miel natural, fomentando la conservación ambiental y el desarrollo comunitario.",
+    "celular": "958741214",
+    "correo": "pequenasalasgrandescambios@gmail.com",
     "ubicacion": {
       "departamento": "AREQUIPA",
       "provincia": "LA UNION",
       "distrito": "QUECHUALLA",
       "localidad": "QUECHUALLA"
     },
+    "maps": "https://www.google.com/maps?q=-15.324263, -73.057679&t=k&z=15&output=embed",
     "integrantes": {
       "presidente": "JUAN MANUEL VIDAL QUISPE QUISPE",
       "secretario": "NELY PORTUGAL HUARCAYA",
@@ -255,14 +311,18 @@
     "id": 15,
     "id_linea": "PANADERIA",
     "linea_negocio": "PANADERIA ARTESANAL",
-    "nombre_emprendimiento": "PANADERIA JOSUE",
+    "nombre_emprendimiento": "Panadería Josue",
     "rubro": "PRODUCCION Y VENTA DE PANES, PASTELES Y TORTAS",
+    "descripcion": "Emprendimiento familiar PANADERIA JOSUE dedicado a la elaboración artesanal de panes, pasteles y tortas, ofreciendo productos frescos y de calidad para la comunidad.",
+    "celular": "958741215",
+    "correo": "panaderiajosue@gmail.com",
     "ubicacion": {
       "departamento": "AREQUIPA",
       "provincia": "LA UNION",
       "distrito": "QUECHUALLA",
       "localidad": "QUECHUALLA"
     },
+    "maps": "https://www.google.com/maps?q=-15.324263, -73.057679&t=k&z=15&output=embed",
     "integrantes": {
       "presidente": "FAUSTINO P CANDIA ÁLVARO",
       "secretario": "YSABEL FABIANA LLAZA LOPEZ",
@@ -273,14 +333,18 @@
     "id": 16,
     "id_linea": "PANADERIA",
     "linea_negocio": "PANADERIA ARTESANAL",
-    "nombre_emprendimiento": "PANADERIA LAS DELICIAS",
+    "nombre_emprendimiento": "Panadería Las Delicias",
     "rubro": "PRODUCCION Y VENTA DE PANES, PASTELES Y TORTAS",
+    "descripcion": "Emprendimiento familiar PANADERIA LAS DELICIAS enfocado en la producción artesanal de panes y pastelería, destacando por su sabor tradicional y calidad.",
+    "celular": "958741216",
+    "correo": "panaderialasdelicias@gmail.com",
     "ubicacion": {
       "departamento": "AREQUIPA",
       "provincia": "LA UNION",
       "distrito": "CHARCANA",
       "localidad": "CHARCANA"
     },
+    "maps": "https://www.google.com/maps?q=-15.240381, -73.070402&t=k&z=15&output=embed",
     "integrantes": {
       "presidente": "JULIAN LUDGARDO SORIA NARAGIO",
       "secretario": "SENDY TERESA SORIA RETAMOZO",
@@ -291,14 +355,18 @@
     "id": 17,
     "id_linea": "TRUCHA",
     "linea_negocio": "TRUCHA FRESCA DE PISCIGRANJA",
-    "nombre_emprendimiento": "PISCIGRANJA DON LUIS",
+    "nombre_emprendimiento": "Piscigranja Don Luis",
     "rubro": "PRODUCCION Y COMERCIALIZACION DE TRUCHAS",
+    "descripcion": "Emprendimiento familiar PISCIGRANJA DON LUIS dedicado a la crianza de truchas en piscigranja, garantizando frescura, calidad y prácticas acuícolas responsables.",
+    "celular": "958741217",
+    "correo": "piscigranjadonluis@gmail.com",
     "ubicacion": {
       "departamento": "AREQUIPA",
       "provincia": "LA UNION",
       "distrito": "CHARCANA",
       "localidad": "CHARCANA"
     },
+    "maps": "https://www.google.com/maps?q=-15.240381, -73.070402&t=k&z=15&output=embed",
     "integrantes": {
       "presidente": "YOMAYRA NESIDA GUZMÁN MOTTA",
       "secretario": "YMACULADA GUZMÁN HUAMANI",
@@ -309,14 +377,18 @@
     "id": 18,
     "id_linea": "TRUCHA",
     "linea_negocio": "TRUCHA FRESCA DE PISCIGRANJA",
-    "nombre_emprendimiento": "PISCIGRANJA CHALLWAMAYO",
+    "nombre_emprendimiento": "Piscigranja Challwamayo",
     "rubro": "PRODUCCION Y COMERCIALIZACION DE ALEVINES",
+    "descripcion": "Emprendimiento familiar PISCIGRANJA CHALLWAMAYO orientado a la producción y comercialización de alevines de trucha, contribuyendo al fortalecimiento de la acuicultura local.",
+    "celular": "958741218",
+    "correo": "piscigranjachallwamayo@gmail.com",
     "ubicacion": {
       "departamento": "AREQUIPA",
       "provincia": "LA UNION",
       "distrito": "QUECHUALLA",
       "localidad": "QUECHUALLA"
     },
+    "maps": "https://www.google.com/maps?q=-15.324263, -73.057679&t=k&z=15&output=embed",
     "integrantes": {
       "presidente": "ALDO ENRIQUE CORDOVA HEREDIA",
       "secretario": "GLENY EGUIA VERA",
@@ -327,14 +399,18 @@
     "id": 19,
     "id_linea": "HORTALIZAS",
     "linea_negocio": "HORTALIZAS FRESCAS",
-    "nombre_emprendimiento": "LAS SEMILLAS DEL FUTURO",
+    "nombre_emprendimiento": "Las Semillas del Futuro",
     "rubro": "PRODUCCION DE HORTALIZAS ORGANICAS EN FITOTOLDO",
+    "descripcion": "Emprendimiento familiar LAS SEMILLAS DEL FUTURO dedicado a la producción de hortalizas orgánicas en fitotoldo, promoviendo una alimentación saludable y sostenible.",
+    "celular": "958741219",
+    "correo": "lassemillasdelfuturo@gmail.com",
     "ubicacion": {
       "departamento": "AREQUIPA",
       "provincia": "LA UNION",
       "distrito": "CHARCANA",
       "localidad": "CHARCANA"
     },
+    "maps": "https://www.google.com/maps?q=-15.240381, -73.070402&t=k&z=15&output=embed",
     "integrantes": {
       "presidente": "ALFONSO ANGEL SANCHO CASANI",
       "secretario": "DELFINA FARFAN DE HUARANCA",
@@ -345,14 +421,18 @@
     "id": 20,
     "id_linea": "FRUTOS",
     "linea_negocio": "FRUTOS DESHIDRATADOS NATURALES",
-    "nombre_emprendimiento": "NUTRINATURA",
+    "nombre_emprendimiento": "Nutrinatura",
     "rubro": "PRODUCCION TRANSFORMACION Y COMERCIALIZACION DE PRODUCTOS FRUTICOLAS",
+    "descripcion": "Emprendimiento familiar NUTRINATURA enfocado en la producción y transformación de frutos deshidratados naturales, generando valor agregado y promoviendo hábitos alimenticios saludables.",
+    "celular": "958741220",
+    "correo": "nutrinatura@gmail.com",
     "ubicacion": {
       "departamento": "AREQUIPA",
       "provincia": "LA UNION",
       "distrito": "QUECHUALLA",
       "localidad": "VELINGA"
     },
+    "maps": "https://www.google.com/maps?q=-15.274163, -73.021835&t=k&z=15&output=embed",
     "integrantes": {
       "presidente": "ANASTACIO IGNACIO CHAMANA BUIZA",
       "secretario": "SEGUNDO SÁNCHEZ HEREDIA",

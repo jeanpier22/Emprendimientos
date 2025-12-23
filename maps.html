@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Emprendimiento | Haku Wiñay</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- Tailwind CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="maps.js" defer></script>
+
+</head>
+
+<body class="min-h-screen relative font-sans">
+
+
+  <!-- ================= CONTENIDO ================= -->
+  <div class="relative z-10">
+
+    <!-- ================= HEADER ================= -->
+    <header class="max-w-6xl mx-auto px-4 py-5 flex items-center gap-3">
+      <img
+        src="./images/logo/logo.jpeg"
+        alt="Haku Wiñay"
+        class="h-10 w-auto rounded-md"
+      />
+      <h1 class="text-lg md:text-xl font-semibold text-slate-800">
+        Haku Wiñay Noa Jayatai
+      </h1>
+    </header>
+
+    <!-- ================= HERO ================= -->
+    <section class="max-w-6xl mx-auto px-4">
+      <div class="relative rounded-2xl overflow-hidden shadow-lg">
+        <img
+          src="./cerditos.avif"
+          class="w-full h-64 md:h-80 object-cover"
+        />
+
+        <div class="absolute inset-0 bg-black/40 flex items-end p-6">
+          <div>
+            <h2 id="emprendimiento" class="text-2xl md:text-3xl font-bold text-white">
+              Criadero de Porcinos HHV
+            </h2>
+            <p class="text-sm text-slate-200">
+              Crianza y comercialización de porcinos
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ================= CONTENIDO ================= -->
+    <main class="max-w-6xl mx-auto px-4 py-8 space-y-8">
+
+      <!-- DESCRIPCIÓN -->
+      <section class="bg-white rounded-2xl p-6 shadow">
+        <h3 class="text-lg font-semibold text-[#14532d] mb-2">
+          Sobre el emprendimiento
+        </h3>
+        <p id="description" class="text-slate-700 leading-relaxed text-sm">      </p>
+      </section>
+
+<section class="space-y-6">
+
+  <!-- MISIÓN -->
+  <div class="bg-white rounded-2xl shadow overflow-hidden md:grid md:grid-cols-2">
+
+    <!-- TEXTO -->
+    <div class="p-6 flex flex-col justify-center">
+      <h4 class="font-semibold text-[#14532d] mb-2 text-lg">
+        Misión
+      </h4>
+      <p class="text-sm text-slate-600 leading-relaxed">
+        Producir porcinos sanos y de alta calidad mediante prácticas sostenibles,
+        fortaleciendo la economía local y mejorando la calidad de vida de
+        nuestras familias productoras.
+      </p>
+    </div>
+
+    <!-- IMAGEN -->
+    <div class="h-56 md:h-64 lg:h-80">
+      <img
+        src="./cerdos.jpg"
+        class="w-full h-full object-cover object-center"
+        alt="Trabajo productivo"
+      />
+    </div>
+
+  </div>
+
+  <!-- VISIÓN -->
+  <div class="bg-white rounded-2xl shadow overflow-hidden md:grid md:grid-cols-2">
+
+    <!-- IMAGEN -->
+    <div class="h-56 md:h-64 lg:h-80 order-1 md:order-none">
+      <img
+        src="./mision.png"
+        class="w-full h-full object-cover object-center"
+        alt="Visión de futuro"
+      />
+    </div>
+
+    <!-- TEXTO -->
+    <div class="p-6 flex flex-col justify-center">
+      <h4 class="font-semibold text-[#14532d] mb-2 text-lg">
+        Visión
+      </h4>
+      <p class="text-sm text-slate-600 leading-relaxed">
+        Ser un emprendimiento referente a nivel regional en producción porcina
+        responsable, reconocido por su calidad, innovación y compromiso con el
+        desarrollo rural sostenible.
+      </p>
+    </div>
+
+  </div>
+
+</section>
+
+
+
+      <!-- INTEGRANTES -->
+      <section class="bg-white rounded-2xl p-6 shadow">
+        <h3 class="text-lg font-semibold text-[#14532d] mb-3">
+          Integrantes
+        </h3>
+        <ul class="text-sm text-slate-700 space-y-1">
+          <li><strong>Presidente:</strong> <span id = "presidente" ></span></li>
+          <li><strong>Secretario:</strong> <span id = "secretario"></span></li>
+          <li><strong>Tesorero:</strong> <span id = "tesorero"></span></li>
+        </ul>
+      </section>
+
+      <!-- GALERÍA -->
+      <section class="bg-white rounded-2xl p-6 shadow">
+        <h3 class="text-lg font-semibold text-[#14532d] mb-4">
+          Galería
+        </h3>
+
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <img src="./varios1.jpg" class="rounded-xl object-cover h-32 w-full">
+          <img src="./varios2.jpg" class="rounded-xl object-cover h-32 w-full">
+          <img src="./varios3.jpg" class="rounded-xl object-cover h-32 w-full">
+          <img src="./varios4.jpg" class="rounded-xl object-cover h-32 w-full">
+        </div>
+      </section>
+
+      <!-- UBICACIÓN -->
+      <section class="bg-white rounded-2xl p-6 shadow">
+        <h3 class="text-lg font-semibold text-[#14532d] mb-2">
+          Ubicación
+        </h3>
+
+        <p id="ubicacion_maps" class="text-sm text-slate-600 mb-3"></p>
+
+        <div class="rounded-xl overflow-hidden h-72">
+        <iframe
+          id="maps"
+          src=""
+          class="w-full h-full border-0"
+          loading="lazy"
+          referrerpolicy="no-referrer-when-downgrade">
+        </iframe>
+
+        </div>
+
+      </section>
+
+      <!-- CONTACTO -->
+      <section class="bg-[#14532d] rounded-2xl p-6 text-white text-center shadow">
+        <h3 class="text-lg font-semibold mb-3">
+          Contacto
+        </h3>
+
+        <div class="flex flex-col md:flex-row justify-center gap-4 text-sm">
+          <span>📞 +51 <span id="telefono"></span></span>
+          <span >📧 <span id ="correo"></span></span>
+          <span>📍 La Unión – Arequipa</span>
+        </div>
+      </section>
+
+    </main>
+
+    <!-- ================= FOOTER ================= -->
+    <footer class="text-center text-sm text-slate-600 py-6">
+      © 2025 Haku Wiñay Noa Jayatai · Emprendimientos rurales
+    </footer>
+
+  </div>
+
+</body>
+</html>

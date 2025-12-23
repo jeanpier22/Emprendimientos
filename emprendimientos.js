@@ -91,18 +91,15 @@ function renderEmprendimientos(data, lineaSeleccionada) {
     y compromiso con la comunidad.
   </p>
 
-  <!-- Integrantes -->
-  <div class="bg-slate-700 rounded-lg p-3">
-    <h4 class="text-sm font-semibold text-white mb-2">
-      👥 Integrantes
-    </h4>
 
-    <ul class="text-sm text-slate-300 space-y-1">
-      <li><strong>Presidente:</strong> ${item.integrantes.presidente}</li>
-      <li><strong>Secretario:</strong> ${item.integrantes.secretario}</li>
-      <li><strong>Tesorero:</strong> ${item.integrantes.tesorero}</li>
-    </ul>
-  </div>
+  <a
+    href="maps.html?id=${encodeURIComponent(item.id)}"
+    data-linea="${item.id}">
+    <button
+      class="text-sm px-3 py-1 mt-4 rounded-full bg-yellow-700 hover:bg-yellow-600 self-start">
+      Más Información
+    </button>
+  </a>
 
 </article>
 
