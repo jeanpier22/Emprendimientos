@@ -229,9 +229,8 @@ Promise.all([
 });
 
 function obtenerLineaPorNombre(nombreLinea) {
-  return lineas.find(l =>
-    l.nombre.toLowerCase() === nombreLinea.toLowerCase()
-  );
+  if (!nombreLinea) return undefined;
+  return lineas.find(l => l.nombre && l.nombre.toLowerCase() === nombreLinea.toLowerCase());
 }
 
 function renderProductos(lista) {
