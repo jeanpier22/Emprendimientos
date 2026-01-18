@@ -249,7 +249,7 @@ function renderProductos(lista) {
   lista.forEach(item => {
     const linea = obtenerLineaPorNombre(item.linea);
 
-    const imagen = linea?.imagen || "../images/lineas/default.png";
+    const imagen = linea?.imagen || "./images/lineas/default.png";
     const icono = linea?.icono || "📞";
 
     contenedor1.innerHTML += `
@@ -259,7 +259,7 @@ function renderProductos(lista) {
           src="${imagen}"
           alt="${item.linea}"
           class="w-full h-40 object-cover rounded-lg mb-4"
-          onerror="this.src='../images/lineas/default.png'"
+          onerror="this.src='./images/lineas/default.png'"
         />
 
         <h3 class="text-lg font-semibold mb-1">
