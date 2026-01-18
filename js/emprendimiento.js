@@ -60,7 +60,7 @@ function renderEmprendimientos(data, lineaSeleccionada) {
     
     <div class="w-28 h-28 flex-shrink-0">
       <img 
-        src="${imagen}"
+        src=".${imagen}"
         alt="${item.nombre_emprendimiento}"
         class="w-full h-full object-cover rounded-xl"
       />

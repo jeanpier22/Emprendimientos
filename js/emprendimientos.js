@@ -90,56 +90,6 @@ function filtrarPorLinea(idLinea) {
   }
 }
 
-/* =============================
-   RENDER EMPRENDIMIENTOS
-============================= */
-
-function renderEmprendimientos(idLinea) {
-  if (!contenedor) return;
-
-  contenedor.innerHTML = "";
-
-  const filtrados = emprendedores.filter(e => e.id_linea === idLinea);
-
-  if (!filtrados.length) {
-    contenedor.innerHTML = `
-      <div class="col-span-full text-center py-8">
-        <p class="text-slate-400 text-lg">
-          No hay emprendimientos disponibles
-        </p>
-        <button onclick="filtrarPorLinea('todas')"
-          class="mt-4 px-4 py-2 rounded-full bg-yellow-700 hover:bg-yellow-600 text-sm">
-          Volver
-        </button>
-      </div>`;
-    return;
-  }
-
-  filtrados.forEach(item => {
-    const imagen = imagenPorLinea[item.id_linea] || "./images/lineas/hortalizas.png";
-
-    contenedor.innerHTML += `
-      <article class="bg-slate-800 rounded-xl p-5 flex flex-col gap-4 hover:bg-slate-750 transition">
-        <div class="flex gap-4 items-center">
-          <div class="w-28 h-28">
-            <img src="${imagen}" class="w-full h-full object-cover rounded-xl">
-          </div>
-          <div>
-            <h3 class="text-lg font-bold">${item.nombre_emprendimiento}</h3>
-            <p class="text-sm text-yellow-500">${item.linea_negocio}</p>
-            <p class="text-xs text-slate-400">
-              📍 ${item.ubicacion.distrito}, ${item.ubicacion.localidad}
-            </p>
-          </div>
-        </div>
-        <p class="text-sm text-slate-300">${item.descripcion || ""}</p>
-        <a href="maps.html?id=${encodeURIComponent(item.id)}"
-          class="text-sm px-4 py-2 rounded-full bg-yellow-700 hover:bg-yellow-600 self-start">
-          Más Información
-        </a>
-      </article>`;
-  });
-}
 
 /* =============================
    RENDER LINEAS
@@ -156,7 +106,7 @@ contenedor.innerHTML += `
     <div class="flex gap-4 items-start">
       <div class="flex-shrink-0 w-28">
         <img 
-          src="${item.imagen}" 
+          src=". ${item.imagen}" 
           class="w-full h-auto object-cover rounded-xl"
         >
       </div>
