@@ -106,7 +106,7 @@ contenedor.innerHTML += `
     <div class="flex gap-4 items-start">
       <div class="flex-shrink-0 w-28">
         <img 
-          src="${item.imagen}" 
+          src=".${item.imagen}" 
           class="w-full h-auto object-cover rounded-xl"
         >
       </div>
