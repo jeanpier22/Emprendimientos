@@ -101,12 +101,14 @@ function renderLineas(data) {
   contenedor.innerHTML = "";
 
   data.forEach(item => {
+    a = "."+item.imagen
+    console.log(a);
 contenedor.innerHTML += `
   <article class="bg-slate-800 rounded-xl p-4 hover:bg-slate-750 transition">
     <div class="flex gap-4 items-start">
       <div class="flex-shrink-0 w-28">
         <img 
-          src=".${item.imagen}" 
+          src="${a}" 
           class="w-full h-auto object-cover rounded-xl"
         >
       </div>
