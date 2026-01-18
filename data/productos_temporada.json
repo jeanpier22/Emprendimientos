@@ -1,0 +1,171 @@
+[
+  {
+    "id": 1,
+    "linea": "Productos Porcinos",
+    "nombre": "Criadero de Porcinos HHV",
+    "rubro": "Crianza y comercialización de porcinos",
+    "productos": "Carne de chancho y lechoncitos",
+    "meses": [3,4,5,6,7,8,9,10,11,12]
+  },
+  {
+    "id": 2,
+    "linea": "Productos Porcinos",
+    "nombre": "Fundo Trapiche",
+    "rubro": "Crianza y comercialización de porcinos",
+    "productos": "Carne de chancho y lechoncitos",
+    "meses": [3,4,5,6,7,8,9,10,11,12]
+  },
+
+  {
+    "id": 3,
+    "linea": "Huevos frescos de libre pastoreo",
+    "nombre": "Plumas Doradas",
+    "rubro": "Crianza y producción de gallinas ponedoras",
+    "productos": "Huevos de gallina de libre pastoreo",
+    "meses": [1,2,3,4,5,6,7,8,9,10,11,12]
+  },
+  {
+    "id": 4,
+    "linea": "Huevos frescos de libre pastoreo",
+    "nombre": "Puka Huallpa",
+    "rubro": "Crianza y producción de gallinas ponedoras",
+    "productos": "Huevos de gallina de libre pastoreo",
+    "meses": [1,2,3,4,5,6,7,8,9,10,11,12]
+  },
+
+  {
+    "id": 5,
+    "linea": "Cuyes beneficiados",
+    "nombre": "Granja de Cuyes Cuyau",
+    "rubro": "Crianza y comercialización de cuyes",
+    "productos": "Carne de cuy desviscerado y platos a base de cuy",
+    "meses": [3,4,5,6,7,8,9,10,11,12]
+  },
+  {
+    "id": 6,
+    "linea": "Cuyes beneficiados",
+    "nombre": "Cuy Gold",
+    "rubro": "Crianza y comercialización de cuyes",
+    "productos": "Carne de cuy desviscerado y platos a base de cuy",
+    "meses": [6,7,8,9,10,11,12]
+  },
+  {
+    "id": 7,
+    "linea": "Cuyes beneficiados",
+    "nombre": "Las Triunfadoras",
+    "rubro": "Crianza y comercialización de cuyes",
+    "productos": "Carne de cuy desviscerado y platos a base de cuy",
+    "meses": [6,7,8,9,10,11,12]
+  },
+
+  {
+    "id": 8,
+    "linea": "Vino artesanal",
+    "nombre": "Cervantes",
+    "rubro": "Producción y comercialización de vinos artesanales y piscos",
+    "productos": "Vino dulce, semidulce, seco, semiseco y pisco",
+    "meses": [1,2,3,4,5,6,7,8,9,10,11,12]
+  },
+  {
+    "id": 9,
+    "linea": "Vino artesanal",
+    "nombre": "Legados Heredia",
+    "rubro": "Producción y comercialización de vinos artesanales y piscos",
+    "productos": "Vino dulce, semidulce, seco, semiseco y pisco",
+    "meses": [1,2,3,4,5,6,7,8,9,10,11,12]
+  },
+  {
+    "id": 10,
+    "linea": "Vino artesanal",
+    "nombre": "Vinos y Piscos Fundo del Rosario",
+    "rubro": "Producción y comercialización de vinos artesanales y piscos",
+    "productos": "Vino dulce, semidulce, seco, semiseco y pisco",
+    "meses": [1,2,3,4,5,6,7,8,9,10,11,12]
+  },
+
+  {
+    "id": 11,
+    "linea": "Servicio de hospedaje",
+    "nombre": "Dulce Sueño",
+    "rubro": "Mejora del servicio de hospedaje",
+    "productos": "Habitaciones simples y matrimoniales",
+    "meses": [1,2,3,4,5,6,7,8,9,10,11,12]
+  },
+  {
+    "id": 12,
+    "linea": "Servicio de hospedaje",
+    "nombre": "Hospedaje Heredia",
+    "rubro": "Mejora del servicio de hospedaje",
+    "productos": "Habitaciones simples y matrimoniales",
+    "meses": [1,2,3,4,5,6,7,8,9,10,11,12]
+  },
+
+  {
+    "id": 13,
+    "linea": "Miel natural",
+    "nombre": "Apicultura Lopez",
+    "rubro": "Producción y comercialización de miel",
+    "productos": "Miel natural",
+    "meses": [1,2,3,4,5,6,7,8,9,10,11,12]
+  },
+  {
+    "id": 14,
+    "linea": "Miel natural",
+    "nombre": "Pequeñas Alas Grandes Cambios",
+    "rubro": "Producción y comercialización de miel",
+    "productos": "Miel natural",
+    "meses": [1,2,3,4,5,6,7,8,9,10,11,12]
+  },
+
+  {
+    "id": 15,
+    "linea": "Panadería artesanal",
+    "nombre": "Panadería Josue",
+    "rubro": "Producción y venta de panes, pasteles y tortas",
+    "productos": "Pan en diversas presentaciones",
+    "meses": [1,2,3,4,5,6,7,8,9,10,11,12]
+  },
+  {
+    "id": 16,
+    "linea": "Panadería artesanal",
+    "nombre": "Panadería Las Delicias",
+    "rubro": "Producción y venta de panes, pasteles y tortas",
+    "productos": "Pan en diversas presentaciones",
+    "meses": [1,2,3,4,5,6,7,8,9,10,11,12]
+  },
+
+  {
+    "id": 17,
+    "linea": "Trucha fresca de piscigranja",
+    "nombre": "Piscigranja Don Luis",
+    "rubro": "Producción y comercialización de truchas",
+    "productos": "Trucha fresca desviscerada",
+    "meses": [6,7,8,9,10,11,12]
+  },
+  {
+    "id": 18,
+    "linea": "Trucha fresca de piscigranja",
+    "nombre": "Piscigranja Challwamayo",
+    "rubro": "Producción y comercialización de alevines",
+    "productos": "Trucha fresca y platos a base de trucha",
+    "meses": [1,2,3,4,5,6,7,8,9,10,11,12]
+  },
+
+  {
+    "id": 19,
+    "linea": "Hortalizas frescas",
+    "nombre": "Las Semillas del Futuro",
+    "rubro": "Producción de hortalizas orgánicas en fitotoldo",
+    "productos": "Hortalizas frescas",
+    "meses": [6,7,8,9,10,11,12]
+  },
+
+  {
+    "id": 20,
+    "linea": "Frutos deshidratados naturales",
+    "nombre": "Nutrínatura",
+    "rubro": "Producción, transformación y comercialización de productos frutícolas",
+    "productos": "Mix de frutos deshidratados",
+    "meses": [3,4,5,6,7,8,9,10,11,12]
+  }
+]

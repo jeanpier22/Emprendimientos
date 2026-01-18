@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "id_linea": "PORCINOS",
+    "nombre": "Productos Porcinos",
+    "icono": "🐖",
+    "imagen": "../images/lineas/porcinos.png",
+    "descripcion": "Producción y crianza de cerdos orientada a la obtención de carne porcina fresca y de calidad, aplicando prácticas tradicionales y sostenibles en comunidades rurales."
+  },
+  {
+    "id": 2,
+    "id_linea": "HUEVOS",
+    "nombre": "Huevos Frescos de Libre Pastoreo",
+    "icono": "🥚",
+    "imagen": "../images/lineas/huevos.png",
+    "descripcion": "Cría de gallinas ponedoras en sistemas de libre pastoreo para la obtención de huevos frescos, nutritivos y producidos con respeto al bienestar animal."
+  },
+  {
+    "id": 3,
+    "id_linea": "CUYES",
+    "nombre": "Cuyes Beneficiados",
+    "icono": "🐹",
+    "imagen": "../images/lineas/cuyes.png",
+    "descripcion": "Crianza y comercialización de cuyes desarrollada como actividad tradicional andina, destinada a proveer carne fresca para el consumo familiar y el mercado local."
+  },
+  {
+    "id": 4,
+    "id_linea": "VINOS",
+    "nombre": "Vino Artesanal",
+    "icono": "🍷",
+    "imagen": "../images/lineas/vinos.png",
+    "descripcion": "Producción y transformación de vinos y piscos artesanales elaborados mediante métodos tradicionales que reflejan la identidad cultural y agrícola de la región."
+  },
+  {
+    "id": 5,
+    "id_linea": "HOSPEDAJE",
+    "nombre": "Servicio de Hospedaje",
+    "icono": "🏡",
+    "imagen": "../images/lineas/hospedaje.png",
+    "descripcion": "Prestación de servicios de hospedaje orientados al turismo local, ofreciendo alojamiento confortable y atención personalizada en entornos rurales y comunitarios."
+  },
+  {
+    "id": 6,
+    "id_linea": "MIEL",
+    "nombre": "Miel Natural",
+    "icono": "🍯",
+    "imagen": "../images/lineas/miel.png",
+    "descripcion": "Producción y comercialización de miel natural obtenida mediante prácticas apícolas sostenibles, garantizando un producto puro, saludable y de alta calidad."
+  },
+  {
+    "id": 7,
+    "id_linea": "PANADERIA",
+    "nombre": "Panadería Artesanal",
+    "icono": "🍞",
+    "imagen": "../images/lineas/pan.png",
+    "descripcion": "Elaboración y venta de panes, pasteles y tortas artesanales, utilizando insumos locales y recetas tradicionales para el consumo diario."
+  },
+  {
+    "id": 8,
+    "id_linea": "TRUCHA",
+    "nombre": "Trucha Fresca de Piscigranja",
+    "icono": "🐟",
+    "imagen": "../images/lineas/trucha.png",
+    "descripcion": "Producción y comercialización de truchas y alevines provenientes de piscigranjas, asegurando frescura, calidad y adecuada alimentación."
+  },
+  {
+    "id": 9,
+    "id_linea": "HORTALIZAS",
+    "nombre": "Hortalizas Frescas",
+    "icono": "🥬",
+    "imagen": "../images/lineas/hortalizas.png",
+    "descripcion": "Producción de hortalizas orgánicas cultivadas en fitotoldos, promoviendo una alimentación saludable y prácticas agrícolas sostenibles."
+  },
+  {
+    "id": 10,
+    "id_linea": "FRUTOS",
+    "nombre": "Frutos Deshidratados Naturales",
+    "icono": "🍎",
+    "imagen": "../images/lineas/frutos.png",
+    "descripcion": "Producción y transformación de frutos deshidratados naturales, agregando valor a la producción frutícola local mediante procesos artesanales."
+  }
+]

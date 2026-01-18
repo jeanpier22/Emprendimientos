@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Haku Wiñay Noa Jayatai</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- Tailwind CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <!-- JS -->
+  <script src="../js/emprendimientos.js" defer></script>
+  <style>
+    /* Estilo para el enlace activo */
+    .nav-link.active {
+      background: linear-gradient(135deg, #ca8a04 0%, #eab308 100%);
+      color: white;
+      font-weight: 600;
+      box-shadow: 0 4px 12px rgba(234, 179, 8, 0.4), 0 2px 4px rgba(0, 0, 0, 0.3);
+      transform: translateY(-1px);
+    }
+    
+    /* Animación del menú móvil */
+    #main-nav {
+      transition: all 0.3s ease-in-out;
+    }
+    
+    #main-nav.mobile-open {
+      display: flex;
+      flex-direction: column;
+      position: absolute;
+      top: 100%;
+      left: 0;
+      right: 0;
+      background: rgb(15, 23, 42);
+      border-radius: 0.5rem;
+      padding: 1rem;
+      margin-top: 0.5rem;
+      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
+      z-index: 50;
+      gap: 0.5rem;
+    }
+    
+    #main-nav.mobile-open .nav-link {
+      width: 100%;
+      justify-content: center;
+    }
+  </style>
+</head>
+
+<body
+  class="
+    min-h-screen
+    bg-gradient-to-br from-slate-900 to-slate-800
+    flex
+    justify-center
+    items-start
+    md:items-center
+    p-4
+  "
+>
+
+  <main
+    class="
+      w-full
+      max-w-sm
+      sm:max-w-xl
+      md:max-w-3xl
+      lg:max-w-5xl
+      bg-slate-900
+      text-white
+      rounded-2xl
+      shadow-xl
+      p-5
+      md:p-8
+    "
+  >
+
+    <!-- HEADER -->
+    <!-- HEADER -->
+       <!-- HEADER -->
+             <!-- HEADER -->
+    <header class="flex flex-col sm:flex-row items-center justify-between mb-4 sm:mb-6 gap-3 sm:gap-4 relative">
+        <div class="flex items-center justify-between w-full sm:w-auto gap-3">
+          <a href="/" class="flex items-center gap-2 sm:gap-3">
+            <img
+              src="../images/logo/logo.jpeg"
+              alt="Haku Wiñay Noa Jayatai"
+              class="h-8 sm:h-10 w-auto rounded-md"
+            />
+            <h1 class="font-semibold text-base sm:text-lg md:text-xl">
+              Haku Wiñay Noa Jayatai
+            </h1>
+          </a>
+          
+          <!-- Botón hamburguesa (solo móvil) -->
+          <button
+            id="menu-toggle"
+            class="sm:hidden w-10 h-10 flex items-center justify-center rounded-lg bg-slate-800 hover:bg-slate-700 transition"
+            aria-label="Menú"
+          >
+            <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path id="menu-icon" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
+              <path id="close-icon" class="hidden" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+            </svg>
+          </button>
+        </div>
+  
+        <!-- NAVBAR -->
+        <nav id="main-nav" class="hidden sm:flex items-center gap-1 sm:gap-2 flex-wrap justify-center w-full sm:w-auto">
+          <a 
+            href="/" 
+            class="nav-link px-2 sm:px-3 md:px-4 py-1.5 sm:py-2 rounded-lg bg-slate-800 hover:bg-slate-700 text-xs sm:text-sm md:text-base font-medium transition-all text-center min-w-[60px]"
+            data-page="inicio"
+          >
+            Inicio
+          </a>
+          <a 
+            href="../pages/emprendimientos.html" 
+            class="nav-link px-2 sm:px-3 md:px-4 py-1.5 sm:py-2 rounded-lg bg-slate-800 hover:bg-slate-700 text-xs sm:text-sm md:text-base font-medium transition-all text-center min-w-[60px]"
+            data-page="emprendimientos"
+          >
+            Emprendimientos
+          </a>
+          <a 
+            href="#" 
+            class="nav-link px-2 sm:px-3 md:px-4 py-1.5 sm:py-2 rounded-lg bg-slate-800 hover:bg-slate-700 text-xs sm:text-sm md:text-base font-medium transition-all text-center min-w-[60px]"
+            data-page="nosotros"
+          >
+            Nosotros
+          </a>
+          <a 
+            href="#" 
+            class="nav-link px-2 sm:px-3 md:px-4 py-1.5 sm:py-2 rounded-lg bg-slate-800 hover:bg-slate-700 text-xs sm:text-sm md:text-base font-medium transition-all text-center min-w-[60px]"
+            data-page="somos"
+          >
+            Contáctanos
+          </a>
+        </nav>
+      </header>
+
+
+<section class="relative mb-6 sm:mb-8 rounded-2xl overflow-hidden shadow-2xl h-48 sm:h-56 md:h-64 lg:h-96">
+  
+  <!-- Imagen de fondo -->
+  <img 
+    src="../portada.jpeg" 
+    alt="Haku Wiñay Noa Jayatai - Portada"
+    class="absolute inset-0 w-full h-full object-cover brightness-110 contrast-110"
+    style="object-position: center 70%;"
+  />
+
+  <!-- Overlay equilibrado -->
+  <div class="absolute inset-0 bg-gradient-to-br from-black/35 via-black/25 to-black/35"></div>
+
+  <!-- Efecto de ondas sutiles -->
+  <div class="absolute inset-0 pointer-events-none">
+    <div class="absolute inset-0 bg-gradient-to-r from-transparent via-white/10 to-transparent -skew-y-12 opacity-20"></div>
+    <div class="absolute inset-0 bg-gradient-to-l from-transparent via-white/10 to-transparent skew-y-12 opacity-20"></div>
+  </div>
+
+  <!-- Contenido principal -->
+  <div class="relative z-10 h-full flex flex-col items-center justify-center text-center px-4 sm:px-6">
+
+
+
+    <!-- Título -->
+    <h2 class="text-xl sm:text-2xl md:text-3xl lg:text-4xl font-extrabold mb-1 sm:mb-2">
+      <span class="bg-gradient-to-r from-yellow-300 via-yellow-400 to-orange-400 bg-clip-text text-transparent drop-shadow-lg">
+        NUESTROS EMPRENDIMIENTOS
+      </span>
+    </h2>
+
+    <!-- Subtítulo -->
+    <p class="text-xs sm:text-sm md:text-base lg:text-lg font-semibold mb-3 sm:mb-4 text-yellow-100 drop-shadow">
+      La mejor selección de productos frescos y naturales
+    </p>
+
+
+
+  </div>
+
+  <!-- Decoración -->
+  <div class="absolute top-3 right-3 w-16 h-16 bg-yellow-400/30 rounded-full blur-2xl"></div>
+  <div class="absolute bottom-3 left-3 w-20 h-20 bg-orange-400/30 rounded-full blur-2xl"></div>
+
+</section>
+
+    <!-- TITLE -->
+    <section class="mb-6">
+      <h2 class="text-xl md:text-2xl font-bold">
+        Líneas de Negocio
+      </h2>
+    </section>
+
+    <!-- FILTERS -->
+    <!-- FILTERS -->
+    <nav class="flex flex-wrap gap-2 mb-6" aria-label="Filtros de líneas de negocio" id="filtros-lineas">
+      <!-- Los botones se generarán dinámicamente desde index.js -->
+      <button 
+        data-linea="todas" 
+        class="px-4 py-2 rounded-full bg-gradient-to-r from-red-500 to-red-600 text-sm font-semibold filtro-linea shadow-lg hover:shadow-xl transition-all">
+        🌟 Todas
+      </button>
+    </nav>
+
+    <!-- LISTADO -->
+    <section
+      id="lineas-negocio"
+      class="
+        grid
+        grid-cols-1
+        sm:grid-cols-2
+        lg:grid-cols-3
+        gap-4
+      "
+    >
+      <!-- Las tarjetas se renderizan desde index.js -->
+    </section>
+
+  </main>
+
+</body>
+</html>

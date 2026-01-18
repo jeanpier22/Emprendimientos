@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "nombre": "Fresas de Temporada",
+      "temporada": "Primavera",
+      "descripcion": "Fresas frescas cultivadas localmente, dulces y jugosas. Ideal para postres y consumo directo.",
+      "imagen": "./images/lineas/frutos.png",
+      "precio": "S/ 15.00 por kg",
+      "disponible": true
+    },
+    {
+      "id": 2,
+      "nombre": "Mangos",
+      "temporada": "Verano",
+      "descripcion": "Mangos maduros y dulces, perfectos para el verano. Alto contenido de vitamina C.",
+      "imagen": "./images/lineas/frutos.png",
+      "precio": "S/ 8.00 por kg",
+      "disponible": true
+    },
+    {
+      "id": 3,
+      "nombre": "Granadas",
+      "temporada": "Otoño",
+      "descripcion": "Granadas frescas con semillas jugosas y dulces. Rico en antioxidantes.",
+      "imagen": "./images/lineas/frutos.png",
+      "precio": "S/ 12.00 por kg",
+      "disponible": true
+    },
+    {
+      "id": 4,
+      "nombre": "Cítricos Variados",
+      "temporada": "Invierno",
+      "descripcion": "Naranjas, mandarinas y limones frescos de temporada. Alto contenido de vitamina C.",
+      "imagen": "./images/lineas/frutos.png",
+      "precio": "S/ 6.00 por kg",
+      "disponible": true
+    },
+    {
+      "id": 5,
+      "nombre": "Aguacates",
+      "temporada": "Verano",
+      "descripcion": "Aguacates frescos y cremosos, perfectos para ensaladas y guacamole.",
+      "imagen": "./images/lineas/frutos.png",
+      "precio": "S/ 10.00 por kg",
+      "disponible": true
+    },
+    {
+      "id": 6,
+      "nombre": "Hortalizas de Hoja",
+      "temporada": "Primavera",
+      "descripcion": "Espinacas, lechugas y acelgas frescas cultivadas en fitotoldos.",
+      "imagen": "./images/lineas/hortalizas.png",
+      "precio": "S/ 5.00 por atado",
+      "disponible": true
+    }
+  ]
