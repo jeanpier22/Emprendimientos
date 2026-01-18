@@ -101,32 +101,35 @@ function renderLineas(data) {
   contenedor.innerHTML = "";
 
   data.forEach(item => {
-    a = "."+item.imagen
-    console.log(a);
-contenedor.innerHTML += `
-  <article class="bg-slate-800 rounded-xl p-4 hover:bg-slate-750 transition">
-    <div class="flex gap-4 items-start">
-      <div class="flex-shrink-0 w-28">
-        <img 
-          src="${a}" 
-          class="w-full h-auto object-cover rounded-xl"
-        >
-      </div>
+    let rutaRelativa = ".." + item.imagen; // Ruta que venías usando
+    let rutaFallback = "/Emprendimientos" + item.imagen; // Ruta alternativa en GitHub Pages
 
-      <div class="flex-1">
-        <h3 class="font-semibold">${item.nombre}</h3>
-        <p class="text-sm text-slate-400">${item.descripcion}</p>
-      </div>
-    </div>
+    contenedor.innerHTML += `
+      <article class="bg-slate-800 rounded-xl p-4 hover:bg-slate-750 transition">
+        <div class="flex gap-4 items-start">
+          <div class="flex-shrink-0 w-28">
+            <img 
+              src="${rutaRelativa}" 
+              onerror="this.onerror=null; this.src='${rutaFallback}';"
+              class="w-full h-auto object-cover rounded-xl"
+            >
+          </div>
 
-    <button 
-      onclick="filtrarPorLinea('${item.id_linea}')"
-      class="text-sm px-3 py-1 mt-4 rounded-full bg-yellow-700 hover:bg-yellow-600">
-      Ver Emprendimientos
-    </button>
-  </article>`;
+          <div class="flex-1">
+            <h3 class="font-semibold">${item.nombre}</h3>
+            <p class="text-sm text-slate-400">${item.descripcion}</p>
+          </div>
+        </div>
+
+        <button 
+          onclick="filtrarPorLinea('${item.id_linea}')"
+          class="text-sm px-3 py-1 mt-4 rounded-full bg-yellow-700 hover:bg-yellow-600">
+          Ver Emprendimientos
+        </button>
+      </article>`;
   });
 }
+
 
 /* =============================
    NAVBAR ACTIVO

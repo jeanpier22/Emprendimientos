@@ -255,7 +255,7 @@ function renderProductos(lista) {
       <article class="bg-slate-800 rounded-xl p-5 hover:bg-slate-700 transition flex flex-col">
 
         <img
-          src="${imagen}"
+          src=".${imagen}"
           alt="${item.linea}"
           class="w-full h-40 object-cover rounded-lg mb-4"
         />
