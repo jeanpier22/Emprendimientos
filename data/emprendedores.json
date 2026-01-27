@@ -6,6 +6,8 @@
     "nombre_emprendimiento": "Criadero de Porcinos HHV",
     "rubro": "CRIANZA Y COMERCIALIZACION DE PORCINOS",
     "descripcion": "Emprendimiento familiar CRIADERO DE PORCINOS HHV dedicado a la crianza responsable de porcinos, aplicando buenas prácticas sanitarias y sostenibles. Nuestro objetivo es ofrecer productos de alta calidad, fortaleciendo la economía local y preservando las tradiciones productivas de la zona.",
+    "mision": "Criar porcinos de manera responsable y sostenible, aplicando buenas prácticas sanitarias, productivas y de alimentación que garanticen carne de calidad para el consumo local. El emprendimiento busca fortalecer la economía familiar, generar ingresos sostenibles y contribuir a la seguridad alimentaria de la comunidad.",
+    "vision": "Ser un criadero reconocido a nivel local y distrital por su producción porcina responsable, la calidad constante de sus animales y su compromiso con el desarrollo productivo, económico y social de la comunidad.",
     "celular": "982533008",
     "correo": "criaderodeporcinoshhv@gmail.com",
     "ubicacion": {
@@ -28,6 +30,9 @@
     "nombre_emprendimiento": "Fundo Trapiche",
     "rubro": "CRIANZA Y COMERCIALIZACION DE PORCINOS",
     "descripcion": "Emprendimiento familiar FUNDO TRAPICHE dedicado a la crianza responsable de porcinos, garantizando carne de calidad mediante prácticas sanitarias adecuadas y sostenibles, contribuyendo al desarrollo económico local.",
+    "mision": "Desarrollar la crianza de porcinos con estándares adecuados de sanidad y manejo, garantizando productos cárnicos de calidad para el mercado local. El emprendimiento promueve prácticas sostenibles que contribuyen al bienestar animal y al crecimiento económico familiar.",
+    "vision": "Consolidarse como un fundo porcícola referente en la zona, reconocido por su calidad productiva, responsabilidad sanitaria y compromiso con el desarrollo rural.",
+
     "celular": "942533702 - 913202777",
     "correo": "fundotrapiche@gmail.com",
     "ubicacion": {
@@ -50,6 +55,8 @@
     "nombre_emprendimiento": "Plumas Doradas",
     "rubro": "CRIANZA PRODUCCION Y COMERCIALIZACION DE GALLINAS PONEDORAS",
     "descripcion": "Emprendimiento familiar PLUMAS DORADAS dedicado a la crianza de gallinas ponedoras de libre pastoreo, produciendo huevos frescos y nutritivos mediante prácticas responsables y amigables con el medio ambiente.",
+    "mision": "Producir huevos frescos y nutritivos mediante la crianza responsable de gallinas de libre pastoreo, priorizando el bienestar animal, la higiene y la calidad del producto final.",
+    "vision": "Ser un emprendimiento avícola reconocido por la calidad de sus huevos y sus prácticas responsables, fortaleciendo la confianza de los consumidores locales.",
     "celular": "932596863",
     "correo": "plumasdoradas@gmail.com",
     "ubicacion": {
@@ -72,6 +79,8 @@
     "nombre_emprendimiento": "Puka Huallpa",
     "rubro": "CRIANZA PRODUCCION Y COMERCIALIZACION DE GALLINAS PONEDORAS",
     "descripcion": "Emprendimiento familiar PUKA HUALLPA enfocado en la producción de huevos frescos de libre pastoreo, promoviendo el bienestar animal, la alimentación saludable y el desarrollo productivo local.",
+    "mision": "Brindar huevos frescos de libre pastoreo a través de una crianza responsable de gallinas, promoviendo una alimentación saludable y prácticas productivas sostenibles.",
+    "vision": "Posicionarse como un referente local en la producción de huevos naturales, destacando por su calidad y compromiso con el bienestar animal.",
     "celular": "944025261 - 973619591",
     "correo": "pukahuallpa@gmail.com",
     "ubicacion": {
@@ -94,6 +103,8 @@
     "nombre_emprendimiento": "Granja de Cuyes Cuyau",
     "rubro": "CRIANZA Y COMERCIALIZACION DE CUYES",
     "descripcion": "Emprendimiento familiar GRANJA DE CUYES CUYAU dedicado a la crianza tecnificada de cuyes, aplicando buenas prácticas sanitarias para ofrecer productos de calidad que fortalecen la economía local.",
+    "mision": "Criar cuyes aplicando buenas prácticas de manejo, sanidad y alimentación, garantizando productos de calidad para el consumo y la comercialización local.",
+    "vision": "Ser una granja reconocida por su producción responsable de cuyes y su aporte a la economía familiar y comunitaria.",
     "celular": "962271544 - 972398610",
     "correo": "granjadecuyescuyau@gmail.com",
     "ubicacion": {
@@ -116,6 +127,8 @@
     "nombre_emprendimiento": "Cuy Gold",
     "rubro": "CRIANZA Y COMERCIALIZACION DE CUYES",
     "descripcion": "Emprendimiento familiar CUY GOLD orientado a la crianza y comercialización de cuyes beneficiados, priorizando la calidad, la inocuidad alimentaria y el desarrollo sostenible.",
+    "mision": "Producir y comercializar cuyes beneficiados asegurando calidad, inocuidad alimentaria y manejo responsable en cada etapa del proceso productivo.",
+    "vision": "Convertirse en un emprendimiento reconocido por la calidad de sus cuyes beneficiados y su compromiso con la producción sostenible.",
     "celular": "956777708 - 989926496",
     "correo": "cuygold@gmail.com",
     "ubicacion": {
@@ -138,6 +151,8 @@
     "nombre_emprendimiento": "Las Triunfadoras",
     "rubro": "CRIANZA Y COMERCIALIZACION DE CUYES",
     "descripcion": "Emprendimiento familiar LAS TRIUNFADORAS dedicado a la crianza y comercialización de cuyes, impulsando el trabajo asociativo, la economía familiar y la seguridad alimentaria.",
+    "mision": "Criar y comercializar cuyes promoviendo el trabajo asociativo, la producción responsable y el fortalecimiento de la economía familiar.",
+    "vision": "Ser una asociación productiva reconocida por su organización, calidad de producción y aporte al desarrollo local.",
     "celular": "988194432",
     "correo": "lastriunfadoras@gmail.com",
     "ubicacion": {
@@ -160,6 +175,8 @@
     "nombre_emprendimiento": "Cervantes",
     "rubro": "TRANSFORMACION PRODUCCION Y COMERCIALIZACION DE VINOS ARTESANALES Y PISCOS",
     "descripcion": "Emprendimiento familiar CERVANTES dedicado a la elaboración artesanal de vinos y piscos, rescatando técnicas tradicionales y promoviendo la identidad cultural de la zona.",
+    "mision": "Elaborar vinos y piscos artesanales preservando técnicas tradicionales, garantizando productos de calidad que representen la identidad cultural de la zona.",
+    "vision": "Ser un referente regional en la producción artesanal de vinos y piscos, destacando por su tradición, calidad y valor cultural.",
     "celular": "961313200 - 936412613",
     "correo": "vinoscervantes@gmail.com",
     "ubicacion": {
@@ -182,6 +199,8 @@
     "nombre_emprendimiento": "Legados Heredia",
     "rubro": "PRODUCCION Y COMERCIALIZACION DE VINOS ARTESANALES Y PISCOS",
     "descripcion": "Emprendimiento familiar LEGADOS HEREDIA orientado a la producción de vinos y piscos artesanales, preservando el legado vitivinícola y generando valor agregado local.",
+    "mision": "Producir vinos y piscos artesanales manteniendo el legado vitivinícola familiar, asegurando calidad y autenticidad en cada producto.",
+    "vision": "Consolidarse como una marca reconocida por preservar la tradición vitivinícola y ofrecer productos artesanales de alto valor.",
     "celular": "978939988",
     "correo": "legadosheredia@gmail.com",
     "ubicacion": {
@@ -204,6 +223,8 @@
     "nombre_emprendimiento": "Vinos y Piscos Fundo del Rosario",
     "rubro": "PRODUCCION Y COMERCIALIZACION DE VINOS ARTESANALES Y PISCOS",
     "descripcion": "Emprendimiento familiar VINOS Y PISCOS FUNDO DEL ROSARIO dedicado a la elaboración de vinos y piscos artesanales de alta calidad, promoviendo el turismo y la producción local.",
+    "mision": "Elaborar vinos y piscos artesanales de alta calidad, promoviendo la producción local y el turismo mediante productos representativos de la zona.",
+    "vision": "Ser un emprendimiento reconocido por la excelencia de sus vinos y piscos y su aporte al desarrollo turístico local.",
     "celular": "993436487",
     "correo": "fundodelrosario@gmail.com",
     "ubicacion": {
@@ -226,6 +247,8 @@
     "nombre_emprendimiento": "Dulce Sueño",
     "rubro": "MEJORA DEL SERVICIO DE HOSPEDAJE",
     "descripcion": "Emprendimiento familiar DULCE SUEÑO dedicado a brindar servicios de hospedaje confortable y seguro, orientado a turistas y visitantes, promoviendo el turismo local.",
+    "mision": "Brindar servicios de hospedaje confortables y seguros, ofreciendo una experiencia agradable a turistas y visitantes.",
+    "vision": "Ser un hospedaje reconocido por su atención, comodidad y contribución al turismo local.",
     "celular": "972288988",
     "correo": "dulcesueno@gmail.com",
     "ubicacion": {
@@ -248,6 +271,8 @@
     "nombre_emprendimiento": "Hospedaje Heredia",
     "rubro": "MEJORA DEL SERVICIO DE HOSPEDAJE",
     "descripcion": "Emprendimiento familiar HOSPEDAJE HEREDIA enfocado en ofrecer alojamiento cómodo y accesible, contribuyendo a una experiencia agradable para los visitantes.",
+    "mision": "Ofrecer alojamiento cómodo y accesible, garantizando un servicio adecuado para visitantes y turistas.",
+    "vision": "Posicionarse como un hospedaje confiable y valorado por su calidad de servicio.",
     "celular": "965627966",
     "correo": "hospedajeheredia@gmail.com",
     "ubicacion": {
@@ -270,6 +295,8 @@
     "nombre_emprendimiento": "Apicultura López",
     "rubro": "PRODUCCION Y COMERCIALIZACION DE MIEL",
     "descripcion": "Emprendimiento familiar APICULTURA LOPEZ dedicado a la producción de miel natural, aplicando prácticas apícolas sostenibles que protegen el medio ambiente.",
+    "mision": "Producir miel natural aplicando prácticas apícolas sostenibles que aseguren la calidad del producto y el cuidado del medio ambiente.",
+    "vision": "Ser reconocido como un productor local de miel natural de alta calidad.",
     "celular": "952125713",
     "correo": "apiculturalopez@gmail.com",
     "ubicacion": {
@@ -292,6 +319,8 @@
     "nombre_emprendimiento": "Pequeñas Alas Grandes Cambios",
     "rubro": "PRODUCCION Y COMERCIALIZACION DE MIEL",
     "descripcion": "Emprendimiento familiar PEQUEÑAS ALAS GRANDES CAMBIOS orientado a la producción de miel natural, fomentando la conservación ambiental y el desarrollo comunitario.",
+    "mision": "Producir miel natural fomentando la conservación ambiental y el desarrollo productivo comunitario.",
+    "vision": "Convertirse en un referente local en apicultura sostenible y responsable.",
     "celular": "9374368811 - 949740941",
     "correo": "pequenasalasgrandescambios@gmail.com",
     "ubicacion": {
@@ -314,6 +343,8 @@
     "nombre_emprendimiento": "Panadería Josué",
     "rubro": "PRODUCCION Y VENTA DE PANES, PASTELES Y TORTAS",
     "descripcion": "Emprendimiento familiar PANADERIA JOSUE dedicado a la elaboración artesanal de panes, pasteles y tortas, ofreciendo productos frescos y de calidad para la comunidad.",
+    "mision": "Elaborar panes y productos de pastelería artesanal ofreciendo alimentos frescos y de calidad para la comunidad.",
+    "vision": "Ser una panadería reconocida por su sabor tradicional y calidad constante.",
     "celular": "992972646",
     "correo": "panaderiajosue@gmail.com",
     "ubicacion": {
@@ -336,6 +367,8 @@
     "nombre_emprendimiento": "Panadería Las Delicias",
     "rubro": "PRODUCCION Y VENTA DE PANES, PASTELES Y TORTAS",
     "descripcion": "Emprendimiento familiar PANADERIA LAS DELICIAS enfocado en la producción artesanal de panes y pastelería, destacando por su sabor tradicional y calidad.",
+    "mision": "Producir panes, pasteles y tortas artesanales destacando por su calidad y procesos tradicionales.",
+    "vision": "Consolidarse como una panadería local preferida por la comunidad.",
     "celular": "965393110",
     "correo": "panaderialasdelicias@gmail.com",
     "ubicacion": {
@@ -358,6 +391,8 @@
     "nombre_emprendimiento": "Piscigranja Don Luis",
     "rubro": "PRODUCCION Y COMERCIALIZACION DE TRUCHAS",
     "descripcion": "Emprendimiento familiar PISCIGRANJA DON LUIS dedicado a la crianza de truchas en piscigranja, garantizando frescura, calidad y prácticas acuícolas responsables.",
+    "mision": "Criar truchas aplicando buenas prácticas acuícolas que garanticen frescura, calidad y sostenibilidad.",
+    "vision": "Ser una piscigranja reconocida por su producción responsable y calidad de trucha.",
     "celular": "992296647",
     "correo": "piscigranjadonluis@gmail.com",
     "ubicacion": {
@@ -380,6 +415,8 @@
     "nombre_emprendimiento": "Piscigranja Challwamayo",
     "rubro": "PRODUCCION Y COMERCIALIZACION DE ALEVINES",
     "descripcion": "Emprendimiento familiar PISCIGRANJA CHALLWAMAYO orientado a la producción y comercialización de alevines de trucha, contribuyendo al fortalecimiento de la acuicultura local.",
+    "mision": "Producir y comercializar alevines de trucha fortaleciendo la acuicultura local mediante prácticas responsables.",
+    "vision": "Ser un referente en la producción de alevines de calidad a nivel local.",
     "celular": "932490105",
     "correo": "piscigranjachallwamayo@gmail.com",
     "ubicacion": {
@@ -402,6 +439,8 @@
     "nombre_emprendimiento": "Las Semillas del Futuro",
     "rubro": "PRODUCCION DE HORTALIZAS ORGANICAS EN FITOTOLDO",
     "descripcion": "Emprendimiento familiar LAS SEMILLAS DEL FUTURO dedicado a la producción de hortalizas orgánicas en fitotoldo, promoviendo una alimentación saludable y sostenible.",
+    "mision": "Producir hortalizas orgánicas mediante prácticas agroecológicas que promuevan la alimentación saludable.",
+    "vision": "Ser un emprendimiento agrícola reconocido por su producción sostenible.",
     "celular": "932490105",
     "correo": "lassemillasdelfuturo@gmail.com",
     "ubicacion": {
@@ -424,6 +463,8 @@
     "nombre_emprendimiento": "Nutrinatura",
     "rubro": "PRODUCCION TRANSFORMACION Y COMERCIALIZACION DE PRODUCTOS FRUTICOLAS",
     "descripcion": "Emprendimiento familiar NUTRINATURA enfocado en la producción y transformación de frutos deshidratados naturales, generando valor agregado y promoviendo hábitos alimenticios saludables.",
+    "mision": "Transformar frutos naturales en productos deshidratados saludables, promoviendo hábitos alimenticios sanos.",
+    "vision": "Posicionarse como una marca local de productos naturales con valor agregado.",
     "celular": "932271816",
     "correo": "nutrinatura@gmail.com",
     "ubicacion": {

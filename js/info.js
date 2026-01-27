@@ -32,6 +32,9 @@ function renderLineas(data) {
     const misionImg = document.getElementById("mision-img");
     const visionImg = document.getElementById("vision-img");
 
+    const misionP = document.getElementById("mision-P");
+    const visionP = document.getElementById("vision-P");
+
     
 
      
@@ -42,6 +45,10 @@ function renderLineas(data) {
         : palabra
       );
     description.textContent = data[id-1]["descripcion"];
+
+    misionP.textContent = data[id-1]["mision"];
+    visionP.textContent = data[id-1]["vision"];
+
     presidente.textContent = data[id-1]["integrantes"]["presidente"];
     secretario.textContent = data[id-1]["integrantes"]["secretario"];
     tesorero.textContent = data[id-1]["integrantes"]["tesorero"];

@@ -103,7 +103,7 @@
   {
     "id": 13,
     "linea": "Miel natural",
-    "nombre": "Apicultura Lopez",
+    "nombre": "Apicultura López",
     "rubro": "Producción y comercialización de miel",
     "productos": "Miel natural",
     "meses": [1,2,3,4,5,6,7,8,9,10,11,12]
@@ -120,7 +120,7 @@
   {
     "id": 15,
     "linea": "Panadería artesanal",
-    "nombre": "Panadería Josue",
+    "nombre": "Panadería Josué",
     "rubro": "Producción y venta de panes, pasteles y tortas",
     "productos": "Pan en diversas presentaciones",
     "meses": [1,2,3,4,5,6,7,8,9,10,11,12]

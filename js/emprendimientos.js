@@ -183,3 +183,50 @@ document.addEventListener("DOMContentLoaded", () => {
     botonTodas.onclick = () => filtrarPorLinea("todas");
   }
 });
+
+
+function renderEmprendimientos(idLinea) {
+  if (!contenedor) return;
+
+  contenedor.innerHTML = "";
+
+  // Filtrar emprendimientos por línea
+  const filtrados = emprendedores.filter(
+    e => e.id_linea === idLinea
+  );
+
+  if (filtrados.length === 0) {
+    contenedor.innerHTML = `
+      <p class="text-slate-400 col-span-full text-center">
+        No hay emprendimientos en esta línea.
+      </p>`;
+    return;
+  }
+
+  filtrados.forEach(item => {
+    contenedor.innerHTML += `
+      <article 
+        class="bg-slate-800 rounded-xl p-4 hover:bg-slate-750 transition cursor-pointer"
+        onclick="window.location.href='../pages/maps.html?id=${item.id}'"
+      >
+        <img
+          src="../images/Fotos/${item.nombre_emprendimiento}/vision.jpeg"
+          class="w-full h-40 object-cover rounded-lg mb-3"
+          onerror="this.style.display='none'"
+        />
+
+        <h3 class="font-semibold text-lg mb-1">
+          ${item.nombre_emprendimiento}
+        </h3>
+
+        <p class="text-sm text-slate-400">
+          ${item.descripcion.substring(0, 90)}...
+        </p>
+
+        <span class="inline-block mt-3 text-yellow-400 text-sm font-semibold">
+          Ver detalles →
+        </span>
+      </article>
+    `;
+  });
+}

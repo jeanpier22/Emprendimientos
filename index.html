@@ -12,6 +12,11 @@
   <!-- JS -->
   <script src="./js/index.js" defer></script>
   <style>
+    .app-ui,
+    .app-ui * {
+    user-select: none;
+    caret-color: transparent;
+    }
     /* Estilo para el enlace activo */
     .nav-link.active {
       background: linear-gradient(135deg, #ca8a04 0%, #eab308 100%);
@@ -46,6 +51,7 @@
       width: 100%;
       justify-content: center;
     }
+    
   </style>
 </head>
 
@@ -54,30 +60,31 @@
     min-h-screen
     bg-gradient-to-br from-slate-900 to-slate-800
     flex
-    justify-center
-    items-start
-    md:items-center
+    flex-col
+    items-center
     p-2
     sm:p-4
   "
 >
 
-  <main
-    class="
-      w-full
-      max-w-sm
-      sm:max-w-xl
-      md:max-w-3xl
-      lg:max-w-5xl
-      bg-slate-900
-      text-white
-      rounded-2xl
-      shadow-xl
-      p-4
-      sm:p-5
-      md:p-8
-    "
-  >
+
+<main
+  class="app-ui
+    w-full
+    max-w-sm
+    sm:max-w-xl
+    md:max-w-3xl
+    lg:max-w-5xl
+    bg-slate-900
+    text-white
+    rounded-2xl
+    shadow-xl
+    p-4
+    sm:p-5
+    md:p-8
+  "
+>
+
 
        <!-- HEADER -->
     <header class="flex flex-col sm:flex-row items-center justify-between mb-4 sm:mb-6 gap-3 sm:gap-4 relative">
@@ -246,7 +253,59 @@
     </div>
   </section>
 
+
+  <!-- SECCIÓN VIDEO AUTOPLAY -->
+<section class="mt-10 sm:mt-14 mb-6 sm:mb-8">
+  <div class="text-center mb-4 sm:mb-6">
+    <h2 class="text-xl sm:text-2xl md:text-3xl font-bold mb-2">
+      🎬 Conoce Nuestro Trabajo
+    </h2>
+    <p class="text-slate-400 text-xs sm:text-sm md:text-base px-2">
+      Mira cómo impulsamos los emprendimientos y productos de nuestra comunidad
+    </p>
+  </div>
+
+  <div class="relative w-full overflow-hidden rounded-2xl shadow-2xl aspect-video bg-black">
+    <video
+      class="w-full h-full object-cover"
+      autoplay
+      muted
+      loop
+      playsinline
+      preload="auto"
+    >
+      <source src="./images/video.mp4" type="video/mp4" />
+    </video>
+    <div class="absolute inset-0 bg-gradient-to-t from-black/40 via-black/10 to-transparent pointer-events-none"></div>
+
+  </div>
+</section>
+
+
+
   </main>
 
+<!-- FOOTER -->
+<footer class="mt-10 pt-6 pb-6 border-t border-slate-700/60 text-center text-slate-400 text-xs sm:text-sm w-full max-w-5xl">
+
+  <p class="mb-2">
+    © 2026 <span class="font-semibold text-slate-200">Haku Wiñay Noa Jayatai</span>
+  </p>
+
+  <p class="mb-3">
+    Impulsando emprendimientos locales y productos de calidad
+  </p>
+
+  <div class="flex justify-center gap-4 text-slate-500">
+    <a href="#" class="hover:text-yellow-400 transition">Inicio</a>
+    <a href="./pages/emprendimientos.html" class="hover:text-yellow-400 transition">Emprendimientos</a>
+    <a href="#" class="hover:text-yellow-400 transition">Nosotros</a>
+    <a href="#" class="hover:text-yellow-400 transition">Contacto</a>
+  </div>
+</footer>
+
+
 </body>
+
+
 </html>
