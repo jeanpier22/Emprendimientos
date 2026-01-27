@@ -64,7 +64,7 @@ function renderProductos(lista) {
       <article class="bg-slate-800 rounded-xl p-5 hover:bg-slate-700 transition flex flex-col">
 
         <img
-          src="./Emprendimientos/images/Fotos/${item.nombre}/vision.jpeg"
+          src="/Emprendimientos/images/Fotos/${item.nombre}/vision.jpeg"
           alt="${item.linea}"
           class="w-full h-40 object-cover rounded-lg mb-4"
         />
